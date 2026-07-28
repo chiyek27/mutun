@@ -4641,24 +4641,57 @@
           "no": "02",
           "judul_ar": "مَنْظُومَةُ الإِلْبِيْرِيِّ",
           "judul_id": "Nazham Al-Ilbiri (Nasihat & Akhlak)",
-          "audio": null,
-          "links": [],
+          "audio": "https://archive.org/download/m_t4_02/m_t4_02.mp3",
+          "links": [
+            {
+              "tipe": "youtube",
+              "nama": "قصيدة أبي إسحاق الإلبيري | قراءة عبد الله روزي",
+              "url": "https://www.youtube.com/watch?v=1J_lVj7vxlU"
+            },
+            {
+              "tipe": "web",
+              "nama": "مَنْظُومَةُ أَبِي إِسْحَاقَ الإِلبِيْرِيّ",
+              "url": "https://shamela.ws/book/573/25"
+            }
+          ],
           "text": []
         },
         {
           "no": "03",
           "judul_ar": "المُقَدِّمَةُ الآجُرُّومِيَّةُ",
           "judul_id": "Mukadimah Al-Ajurrumiyyah (Dasar Nahwu)",
-          "audio": null,
-          "links": [],
+          "audio": "https://archive.org/download/m_t3_03/m_t4_03.mp3",
+          "links": [
+            {
+              "tipe": "youtube",
+              "nama": "المقدمة الآجرومية | قراءة عبد الله روزي",
+              "url": "https://www.youtube.com/watch?v=rop50fl5S1o"
+            },
+            {
+              "tipe": "web",
+              "nama": "المُقَدِّمَةُ الآجُرُّومِيَّةُ",
+              "url": "https://shamela.ws/book/573/46"
+            }
+          ],
           "text": []
         },
         {
           "no": "04",
           "judul_ar": "العَقِيدَةُ الوَاسِطِيَّةُ",
           "judul_id": "Aqidah Wasithiyyah",
-          "audio": null,
-          "links": [],
+          "audio": "https://archive.org/download/m_t4_04/m_t4_04.mp3",
+          "links": [
+            {
+              "tipe": "youtube",
+              "nama": "العقيدة الواسطية | قراءة عبد الله الزوري",
+              "url": "https://www.youtube.com/watch?v=FYsP2DSqVCs"
+            },
+            {
+              "tipe": "web",
+              "nama": "العَقِيْدَةُ الوَاسِطِيَّةُ",
+              "url": "https://shamela.ws/book/573/92"
+            }
+          ],
           "text": []
         }
       ]
