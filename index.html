@@ -125,6 +125,9 @@
   }
   .para-id{font-family:var(--font-id);font-size:.98rem;line-height:1.5;color:#23453f;}
   .para-id.placeholder{color:#8fb0ac;font-style:italic;}
+  .word{display:inline-block;cursor:pointer;border-radius:4px;padding:0 2px;transition:background .12s,color .12s;}
+  .word:hover{background:rgba(63,164,160,.18);}
+  .word.active-word{background:var(--gold);color:#fff;}
 
   .empty-state{
     margin-top:20px;padding:26px 24px;border:1px dashed #a9d1cb;border-radius:6px;
@@ -427,7 +430,16 @@
         var seekAttrs = hasTime ? ' data-seek="' + p.start + '" data-start="' + p.start + '" data-end="' + p.end + '"' : '';
         html += '<div class="para' + (hasTime ? '' : ' no-audio') + '"' + seekAttrs + '>';
         html += '  <div class="para-label">' + escapeHtml(p.label || '') + '</div>';
-        html += '  <div class="para-ar" data-ar-full="' + encodeURIComponent(p.ar || '') + '">' + escapeHtml(p.ar || '') + '</div>';
+        if(p.words && p.words.length && item.audio){
+          html += '  <div class="para-ar para-ar-words">';
+          p.words.forEach(function(w, wi){
+            html += '<span class="word" data-ws="' + w.s + '" data-we="' + w.e + '" data-ar-full="' + encodeURIComponent(w.w) + '">' + escapeHtml(w.w) + '</span>';
+            if(wi < p.words.length - 1){ html += ' '; }
+          });
+          html += '</div>';
+        } else {
+          html += '  <div class="para-ar" data-ar-full="' + encodeURIComponent(p.ar || '') + '">' + escapeHtml(p.ar || '') + '</div>';
+        }
         html += '  <div class="para-id' + (p.id ? '' : ' placeholder') + '">' + (p.id ? escapeHtml(p.id) : 'Terjemahan belum diisi.') + '</div>';
         html += '</div>';
       });
@@ -436,8 +448,10 @@
     document.getElementById("contentInner").innerHTML = html;
     document.getElementById("content").scrollTop = 0;
     lastActiveAnchorEl = null;
+    lastActiveWordEl = null;
     applyGundulMode();
     wireSeekableElements();
+    wireWordSeek();
     wireItemPlayButton();
 
     if(item.audio){
@@ -520,6 +534,20 @@
     });
   }
 
+  function wireWordSeek(){
+    var audioEl = document.getElementById("bookAudio");
+    document.querySelectorAll(".word[data-ws]").forEach(function(el){
+      el.addEventListener("click", function(e){
+        e.stopPropagation();
+        var t = parseFloat(el.getAttribute("data-ws"));
+        if(audioEl && !isNaN(t)){
+          audioEl.currentTime = t;
+          audioEl.play();
+        }
+      });
+    });
+  }
+
   function wireItemPlayButton(){
     var audioEl = document.getElementById("bookAudio");
     var btn = document.querySelector(".sec-play-btn");
@@ -556,6 +584,28 @@
   }
 
   var lastActiveAnchorEl = null;
+  var lastActiveWordEl = null;
+
+  function highlightActiveWord(t){
+    var words = document.querySelectorAll(".word[data-ws]");
+    var active = null;
+    for(var i=0;i<words.length;i++){
+      var s = parseFloat(words[i].getAttribute("data-ws"));
+      var e = parseFloat(words[i].getAttribute("data-we"));
+      if(t >= s && t < e){ active = words[i]; break; }
+    }
+    if(!active){
+      for(var j=0;j<words.length;j++){
+        var s2 = parseFloat(words[j].getAttribute("data-ws"));
+        if(s2 <= t){ active = words[j]; } else { break; }
+      }
+    }
+    if(active !== lastActiveWordEl){
+      if(lastActiveWordEl){ lastActiveWordEl.classList.remove("active-word"); }
+      if(active){ active.classList.add("active-word"); }
+      lastActiveWordEl = active;
+    }
+  }
 
   function highlightActiveParagraph(t){
     var paras = document.querySelectorAll(".para[data-start]");
@@ -565,6 +615,8 @@
       var isActive = t >= start && t < end;
       el.classList.toggle("active", isActive);
     });
+
+    highlightActiveWord(t);
 
     var activeAnchor = getActiveTimeAnchor(t);
     if(activeAnchor && activeAnchor !== lastActiveAnchorEl){
