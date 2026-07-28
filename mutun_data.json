@@ -4673,7 +4673,1618 @@
               "url": "https://shamela.ws/book/573/46"
             }
           ],
-          "text": []
+          "text": [
+            {
+              "label": null,
+              "ar": "المُقَدِّمَةُ الآجُرُّومِيَّةُ",
+              "id": "Mukadimah Al-Ajurrumiyyah",
+              "start": 3.899,
+              "end": 4.506
+            },
+            {
+              "label": null,
+              "ar": "لأَبِي عَبْدِ اللهِ مُحَمَّدِ بْنِ مُحَمَّدٍ الصِّنْهَاجِيّ",
+              "id": "Karya Abu Abdillah Muhammad bin Muhammad Ash-Shanhaji",
+              "start": 7.922,
+              "end": 12.629
+            },
+            {
+              "label": null,
+              "ar": "(ابْنِ آجرُّوم)",
+              "id": "(Ibnu Ajurrum)",
+              "start": 12.629,
+              "end": 16.106
+            },
+            {
+              "label": null,
+              "ar": "رَحِمَهُ اللَّهُ (ت ٧٢٣ هـ)",
+              "id": "Semoga Allah merahmatinya (wafat tahun 723 H)",
+              "start": 16.106,
+              "end": 16.847
+            },
+            {
+              "label": null,
+              "ar": "بِسْمِ اللَّهِ الرَّحْمَنِ الرَّحِيمِ",
+              "id": "Dengan nama Allah Yang Maha Pengasih lagi Maha Penyayang",
+              "start": 34.578,
+              "end": 36.239
+            },
+            {
+              "label": null,
+              "ar": "الكَلَامُ: هُوَ اللَّفْظُ، المُرَكَّبُ، المُفِيدُ بِالوَضْعِ.",
+              "id": "Kalam adalah: lafazh, yang tersusun, dan memberi faedah (makna yang sempurna) menurut kesepakatan bahasa.",
+              "start": 37.62,
+              "end": 40.742
+            },
+            {
+              "label": null,
+              "ar": "وَأَقْسَامُهُ ثَلَاثَةٌ: اسْمٌ، وَفِعْلٌ، وَحَرْفٌ جَاءَ لِمَعْنًى.",
+              "id": "Pembagiannya ada tiga: isim (kata benda), fi'il (kata kerja), dan harf yang datang untuk suatu makna.",
+              "start": 41.243,
+              "end": 45.626
+            },
+            {
+              "label": null,
+              "ar": "فَالِاسْمُ يُعْرَفُ: بِالخَفْضِ، وَالتَّنْوِينِ.",
+              "id": "Isim dapat dikenali dengan: khafadh (jar/kasrah), dan tanwin,",
+              "start": 46.085,
+              "end": 48.367
+            },
+            {
+              "label": null,
+              "ar": "وَدُخُولِ الأَلِفِ وَاللَّامِ عَلَيْهِ.",
+              "id": "serta dengan masuknya alif dan lam padanya,",
+              "start": 48.367,
+              "end": 50.649
+            },
+            {
+              "label": null,
+              "ar": "وَحُرُوفِ الخَفْضِ - وَهِيَ: مِنْ، وَإِلَى، وَعَنْ، وَعَلَى، وَفِي، وَرُبَّ، وَالبَاءُ، وَالكَافُ، وَاللَّامُ ـ.",
+              "id": "dan dengan huruf-huruf khafadh - yaitu: min, ilaa, 'an, 'alaa, fii, rubba, ba', kaf, dan lam -,",
+              "start": 51.228,
+              "end": 57.456
+            },
+            {
+              "label": null,
+              "ar": "وَحُرُوفِ القَسَمِ - وَهِيَ: الوَاوُ، وَالبَاءُ، وَالتَّاءُ ـ.",
+              "id": "dan dengan huruf-huruf qasam (sumpah) - yaitu: wawu, ba', dan ta' -.",
+              "start": 57.996,
+              "end": 61.6
+            },
+            {
+              "label": null,
+              "ar": "وَالفِعْلُ يُعْرَفُ: بِقَدْ، وَالسِّينِ، وَسَوْفَ، وَتَاءِ التَّأْنِيثِ السَّاكِنَةِ.",
+              "id": "Fi'il dapat dikenali dengan: qad, sin, saufa, dan ta' ta'nits yang sukun.",
+              "start": 62.282,
+              "end": 67.088
+            },
+            {
+              "label": null,
+              "ar": "وَالحَرْفُ: مَا لَا يَصْلُحُ مَعَهُ دَلِيلُ الِاسْمِ، وَلَا دَلِيلُ الفِعْلِ.",
+              "id": "Adapun harf: sesuatu yang tidak layak baginya tanda isim, dan tidak pula tanda fi'il.",
+              "start": 67.588,
+              "end": 72.031
+            },
+            {
+              "label": null,
+              "ar": "بَابُ الإِعْرَابِ",
+              "id": "Bab I'rab",
+              "start": 72.551,
+              "end": 73.632
+            },
+            {
+              "label": null,
+              "ar": "الإِعْرَابُ: هُوَ تَغْيِيرُ أَوَاخِرِ الكَلِمِ؛ لِاخْتِلَافِ العَوَامِلِ الدَّاخِلَةِ عَلَيْهَا - لَفْظاً أَوْ تَقْدِيراً ـ.",
+              "id": "I'rab adalah: perubahan pada akhir kata karena perbedaan 'amil (faktor tata bahasa) yang masuk padanya - baik secara lafazh maupun secara taqdir (perkiraan) -.",
+              "start": 74.192,
+              "end": 81.356
+            },
+            {
+              "label": null,
+              "ar": "وَأَقْسَامُهُ أَرْبَعَةٌ: رَفْعٌ، وَنَصْبٌ، وَخَفْضٌ، وَجَزْمٌ.",
+              "id": "Pembagiannya ada empat: rafa', nashab, khafadh, dan jazm.",
+              "start": 82.758,
+              "end": 85.822
+            },
+            {
+              "label": null,
+              "ar": "فَلِلْأَسْمَاءِ مِنْ ذَلِكَ: الرَّفْعُ، وَالنَّصْبُ، وَالخَفْضُ، وَلَا جَزْمَ فِيهَا.",
+              "id": "Bagi isim, dari keempat itu berlaku: rafa', nashab, dan khafadh, tidak ada jazm padanya.",
+              "start": 87.336,
+              "end": 90.987
+            },
+            {
+              "label": null,
+              "ar": "وَلِلْأَفْعَالِ مِنْ ذَلِكَ: الرَّفْعُ، وَالنَّصْبُ، وَالجَزْمُ، وَلَا خَفْضَ فِيهَا.",
+              "id": "Bagi fi'il, dari keempat itu berlaku: rafa', nashab, dan jazm, tidak ada khafadh padanya.",
+              "start": 92.566,
+              "end": 96.314
+            },
+            {
+              "label": null,
+              "ar": "بَابُ",
+              "id": "Bab",
+              "start": 97.548,
+              "end": 98.178
+            },
+            {
+              "label": null,
+              "ar": "مَعْرِفَةِ عَلَامَاتِ الإِعْرَابِ",
+              "id": "Mengenal Tanda-Tanda I'rab",
+              "start": 98.178,
+              "end": 100.07
+            },
+            {
+              "label": null,
+              "ar": "لِلرَّفْعِ أَرْبَعُ عَلَامَاتٍ: الضَّمَّةُ، وَالوَاوُ، وَالأَلِفُ، وَالنُّونُ.",
+              "id": "Bagi rafa' ada empat tanda: dhammah, wawu, alif, dan nun.",
+              "start": 100.49,
+              "end": 105.332
+            },
+            {
+              "label": null,
+              "ar": "فَأَمَّا الضَّمَّةُ؛ فَتَكُونُ عَلَامَةً لِلرَّفْعِ فِي أَرْبَعَةِ مَوَاضِعَ: فِي الِاسْمِ المُفْرَدِ، وَجَمْعِ التَّكْسِيرِ، وَجَمْعِ المُؤَنَّثِ السَّالِمِ، وَالفِعْلِ المُضَارِعِ الَّذِي لَمْ يَتَّصِلْ بِآخِرِهِ شَيْءٌ.",
+              "id": "Adapun dhammah; ia menjadi tanda rafa' pada empat tempat: pada isim mufrad, jama' taksir, jama' muannats salim, dan fi'il mudhari' yang tidak bersambung pada akhirnya sesuatu apa pun.",
+              "start": 105.774,
+              "end": 118.445
+            },
+            {
+              "label": null,
+              "ar": "وَأَمَّا الوَاوُ؛ فَتَكُونُ عَلَامَةً لِلرَّفْعِ فِي مَوْضِعَيْنِ: فِي جَمْعِ المُذَكَّرِ السَّالِمِ، وَفِي الأَسْمَاءِ الخَمْسَةِ - وَهِيَ: أَبُوكَ، وَأَخُوكَ، وَحَمُوكِ، وَفُوكَ، وَذُو مَالٍ ـ.",
+              "id": "Adapun wawu; ia menjadi tanda rafa' pada dua tempat: pada jama' mudzakkar salim, dan pada al-asma' al-khamsah (lima isim khusus) - yaitu: abuuka, akhuuka, hamuuki, fuuka, dan dzu maal -.",
+              "start": 119.066,
+              "end": 129.431
+            },
+            {
+              "label": null,
+              "ar": "وَأَمَّا الأَلِفُ؛ فَتَكُونُ عَلَامَةً لِلرَّفْعِ فِي: تَثْنِيَةِ الأَسْمَاءِ خَاصَّةً.",
+              "id": "Adapun alif; ia menjadi tanda rafa' pada: tatsniyah (bentuk dua/mutsanna) isim secara khusus.",
+              "start": 130.056,
+              "end": 135.682
+            },
+            {
+              "label": null,
+              "ar": "وَأَمَّا النُّونُ؛ فَتَكُونُ عَلَامَةً لِلرَّفْعِ فِي: الفِعْلِ المُضَارِعِ إِذَا اتَّصَلَ بِهِ ضَمِيرُ تَثْنِيَةٍ، أَوْ ضَمِيرُ جَمْعٍ، أَوْ ضَمِيرُ المُؤَنَّثَةِ المُخَاطَبَةِ.",
+              "id": "Adapun nun; ia menjadi tanda rafa' pada: fi'il mudhari' apabila bersambung dengannya dhamir tatsniyah, atau dhamir jama', atau dhamir mu'annats mukhathabah (kata ganti perempuan lawan bicara).",
+              "start": 136.163,
+              "end": 146.491
+            },
+            {
+              "label": null,
+              "ar": "وَلِلنَّصْبِ خَمْسُ عَلَامَاتٍ: الفَتْحَةُ، وَالأَلِفُ، وَالكَسْرَةُ، وَاليَاءُ، وَحَذْفُ النُّونِ.",
+              "id": "Bagi nashab ada lima tanda: fathah, alif, kasrah, ya', dan menghilangkan nun.",
+              "start": 147.111,
+              "end": 153.076
+            },
+            {
+              "label": null,
+              "ar": "فَأَمَّا الفَتْحَةُ؛ فَتَكُونُ عَلَامَةً لِلنَّصْبِ فِي ثَلَاثَةِ مَوَاضِعَ: فِي الاِسْمِ المُفْرَدِ، وَجَمْعِ التَّكْسِيرِ، وَالفِعْلِ المُضَارِعِ إِذَا دَخَلَ عَلَيْهِ نَاصِبٌ وَلَمْ يَتَّصِلْ بِآخِرِهِ شَيْءٌ.",
+              "id": "Adapun fathah; ia menjadi tanda nashab pada tiga tempat: pada isim mufrad, jama' taksir, dan fi'il mudhari' apabila kemasukan 'amil nashib dan tidak bersambung pada akhirnya sesuatu apa pun.",
+              "start": 153.557,
+              "end": 165.986
+            },
+            {
+              "label": null,
+              "ar": "وَأَمَّا الأَلِفُ؛ فَتَكُونُ عَلَامَةً لِلنَّصْبِ فِي: الأَسْمَاءِ الخَمْسَةِ - نَحْوُ: رَأَيْتُ أَبَاكَ وَأَخَاكَ ـ.",
+              "id": "Adapun alif; ia menjadi tanda nashab pada: al-asma' al-khamsah - seperti: 'aku melihat ayahmu dan saudaramu' -.",
+              "start": 166.607,
+              "end": 173.352
+            },
+            {
+              "label": null,
+              "ar": "وَأَمَّا الكَسْرَةُ؛ فَتَكُونُ عَلَامَةً لِلنَّصْبِ فِي: جَمْعِ المُؤَنَّثِ السَّالِمِ.",
+              "id": "Adapun kasrah; ia menjadi tanda nashab pada: jama' muannats salim.",
+              "start": 173.733,
+              "end": 178.296
+            },
+            {
+              "label": null,
+              "ar": "وَأَمَّا اليَاءُ؛ فَتَكُونُ عَلَامَةً لِلنَّصْبِ فِي: التَّثْنِيَةِ، وَالجَمْعِ.",
+              "id": "Adapun ya'; ia menjadi tanda nashab pada: tatsniyah, dan jama' (mudzakkar salim).",
+              "start": 178.697,
+              "end": 182.92
+            },
+            {
+              "label": null,
+              "ar": "وَأَمَّا حَذْفُ النُّونِ؛ فَيَكُونُ عَلَامَةً لِلنَّصْبِ: فِي الأَفْعَالِ الخَمْسَةِ الَّتِي رَفْعُهَا بِثَبَاتِ النُّونِ.",
+              "id": "Adapun menghilangkan nun; ia menjadi tanda nashab pada: al-af'al al-khamsah (lima kata kerja khusus) yang rafa'-nya dengan tetapnya nun.",
+              "start": 183.381,
+              "end": 190.326
+            },
+            {
+              "label": null,
+              "ar": "وَلِلْخَفْضِ ثَلَاثُ عَلَامَاتٍ: الكَسْرَةُ، وَاليَاءُ، وَالفَتْحَةُ.",
+              "id": "Bagi khafadh ada tiga tanda: kasrah, ya', dan fathah.",
+              "start": 190.667,
+              "end": 194.969
+            },
+            {
+              "label": null,
+              "ar": "فَأَمَّا الكَسْرَةُ؛ فَتَكُونُ عَلَامَةً لِلْخَفْضِ فِي ثَلَاثَةِ مَوَاضِعَ: فِي الاِسْمِ المُفْرَدِ المُنْصَرِفِ، وَجَمْعِ التَّكْسِيرِ المُنْصَرِفِ، وَجَمْعِ المُؤَنَّثِ السَّالِمِ.",
+              "id": "Adapun kasrah; ia menjadi tanda khafadh pada tiga tempat: pada isim mufrad yang munsharif, jama' taksir yang munsharif, dan jama' muannats salim.",
+              "start": 195.57,
+              "end": 205.359
+            },
+            {
+              "label": null,
+              "ar": "وَأَمَّا اليَاءُ؛ فَتَكُونُ عَلَامَةً لِلْخَفْضِ فِي ثَلَاثَةِ مَوَاضِعَ: فِي الأَسْمَاءِ الخَمْسَةِ، وَفِي التَّثْنِيَةِ، وَالجَمْعِ.",
+              "id": "Adapun ya'; ia menjadi tanda khafadh pada tiga tempat: pada al-asma' al-khamsah, pada tatsniyah, dan pada jama' (mudzakkar salim).",
+              "start": 205.759,
+              "end": 213.465
+            },
+            {
+              "label": null,
+              "ar": "وَأَمَّا الفَتْحَةُ؛ فَتَكُونُ عَلَامَةً لِلْخَفْضِ فِي: الِاسْمِ الَّذِي لَا يَنْصَرِفُ.",
+              "id": "Adapun fathah; ia menjadi tanda khafadh pada: isim yang tidak munsharif (ghairu munsharif).",
+              "start": 213.885,
+              "end": 218.629
+            },
+            {
+              "label": null,
+              "ar": "وَلِلْجَزْمِ عَلَامَتَانِ: السُّكُونُ، وَالحَذْفُ.",
+              "id": "Bagi jazm ada dua tanda: sukun, dan penghilangan (huruf 'illah atau nun).",
+              "start": 219.821,
+              "end": 222.132
+            },
+            {
+              "label": null,
+              "ar": "فَأَمَّا السُّكُونُ؛ فَيَكُونُ عَلَامَةً لِلْجَزْمِ فِي: الفِعْلِ المُضَارِعِ الصَّحِيحِ الآخِرِ.",
+              "id": "Adapun sukun; ia menjadi tanda jazm pada: fi'il mudhari' yang shahih akhirnya.",
+              "start": 222.612,
+              "end": 228.097
+            },
+            {
+              "label": null,
+              "ar": "وَأَمَّا الحَذْفُ؛ فَيَكُونُ عَلَامَةً لِلْجَزْمِ فِي: الفِعْلِ المُضَارِعِ المُعْتَلِّ الآخِرِ، وَفِي الأَفْعَالِ الَّتِي رَفْعُهَا بِثَبَاتِ النُّونِ.",
+              "id": "Adapun penghilangan; ia menjadi tanda jazm pada: fi'il mudhari' yang mu'tal akhirnya, dan pada af'al (kata kerja) yang rafa'-nya dengan tetapnya nun.",
+              "start": 228.537,
+              "end": 237.564
+            },
+            {
+              "label": null,
+              "ar": "فَصْلٌ",
+              "id": "Fashl (Pasal)",
+              "start": 238.064,
+              "end": 238.385
+            },
+            {
+              "label": null,
+              "ar": "المُعْرَبَاتُ قِسْمَانِ: قِسْمٌ يُعْرَبُ بِالحَرَكَاتِ، وَقِسْمٌ يُعْرَبُ بِالحُرُوفِ.",
+              "id": "Kata-kata yang di-i'rab terbagi dua bagian: bagian yang di-i'rab dengan harakat, dan bagian yang di-i'rab dengan huruf.",
+              "start": 238.906,
+              "end": 244.51
+            },
+            {
+              "label": null,
+              "ar": "فَالَّذِي يُعْرَبُ بِالحَرَكَاتِ أَرْبَعَةُ أَنْوَاعٍ: الِاسْمُ المُفْرَدُ، وَجَمْعُ التَّكْسِيرِ، وَجَمْعُ المُؤَنَّثِ السَّالِمُ، وَالفِعْلُ المُضَارِعُ الَّذِي لَمْ يَتَّصِلْ بِآخِرِهِ شَيْءٌ.",
+              "id": "Adapun yang di-i'rab dengan harakat ada empat jenis: isim mufrad, jama' taksir, jama' muannats salim, dan fi'il mudhari' yang tidak bersambung pada akhirnya sesuatu apa pun.",
+              "start": 244.971,
+              "end": 257.745
+            },
+            {
+              "label": null,
+              "ar": "وَكُلُّهَا تُرْفَعُ بِالضَّمَّةِ، وَتُنْصَبُ بِالفَتْحَةِ، وَتُخْفَضُ بِالكَسْرَةِ، وَتُجْزَمُ بِالسُّكُونِ.",
+              "id": "Semuanya dirafa'kan dengan dhammah, dinashabkan dengan fathah, dikhafadhkan dengan kasrah, dan dijazmkan dengan sukun.",
+              "start": 257.745,
+              "end": 263.526
+            },
+            {
+              "label": null,
+              "ar": "وَخَرَجَ عَنْ ذَلِكَ ثَلَاثَةُ أَشْيَاءَ: جَمْعُ المُؤَنَّثِ السَّالِمُ يُنْصَبُ بِالكَسْرَةِ، وَالِاسْمُ الَّذِي لَا يَنْصَرِفُ يُخْفَضُ بِالفَتْحَةِ، وَالفِعْلُ المُضَارِعُ المُعْتَلُّ الآخِرِ يُجْزَمُ بِحَذْفِ آخِرِهِ.",
+              "id": "Dan yang keluar dari ketentuan itu ada tiga hal: jama' muannats salim dinashabkan dengan kasrah, isim yang tidak munsharif dikhafadhkan dengan fathah, dan fi'il mudhari' yang mu'tal akhirnya dijazmkan dengan menghilangkan akhirnya.",
+              "start": 263.865,
+              "end": 275.887
+            },
+            {
+              "label": null,
+              "ar": "وَالَّذِي يُعْرَبُ بِالحُرُوفِ أَرْبَعَةُ أَنْوَاعٍ: التَّثْنِيَةُ، وَجَمْعُ المُذَكَّرِ السَّالِمُ، وَالأَسْمَاءُ الخَمْسَةُ، وَالأَفْعَالُ الخَمْسَةُ - وَهِيَ: يَفْعَلَانِ، وَتَفْعَلَانِ، وَيَفْعَلُونَ، وَتَفْعَلُونَ، وَتَفْعَلِينَ ـ.",
+              "id": "Adapun yang di-i'rab dengan huruf ada empat jenis: tatsniyah, jama' mudzakkar salim, al-asma' al-khamsah, dan al-af'al al-khamsah - yaitu: yaf'alaani, taf'alaani, yaf'aluuna, taf'aluuna, dan taf'aliina -.",
+              "start": 278.177,
+              "end": 291.27
+            },
+            {
+              "label": null,
+              "ar": "فَأَمَّا التَّثْنِيَةُ: فَتُرْفَعُ بِالأَلِفِ، وَتُنْصَبُ وَتُخْفَضُ بِاليَاءِ.",
+              "id": "Adapun tatsniyah: dirafa'kan dengan alif, dinashabkan dan dikhafadhkan dengan ya'.",
+              "start": 291.751,
+              "end": 295.44
+            },
+            {
+              "label": null,
+              "ar": "وَأَمَّا جَمْعُ المُذَكَّرِ السَّالِمُ: فَيُرْفَعُ بِالوَاوِ، وَيُنْصَبُ وَيُخْفَضُ بِاليَاءِ.",
+              "id": "Adapun jama' mudzakkar salim: dirafa'kan dengan wawu, dinashabkan dan dikhafadhkan dengan ya'.",
+              "start": 296.415,
+              "end": 301.233
+            },
+            {
+              "label": null,
+              "ar": "وَأَمَّا الأَسْمَاءُ الخَمْسَةُ: فَتُرْفَعُ بِالوَاوِ، وَتُنْصَبُ بِالأَلِفِ، وَتُخْفَضُ بِاليَاءِ.",
+              "id": "Adapun al-asma' al-khamsah: dirafa'kan dengan wawu, dinashabkan dengan alif, dan dikhafadhkan dengan ya'.",
+              "start": 301.85,
+              "end": 306.784
+            },
+            {
+              "label": null,
+              "ar": "وَأَمَّا الأَفْعَالُ الخَمْسَةُ: فَتُرْفَعُ بِالنُّونِ، وَتُنْصَبُ وَتُجْزَمُ بِحَذْفِهَا.",
+              "id": "Adapun al-af'al al-khamsah: dirafa'kan dengan nun, serta dinashabkan dan dijazmkan dengan menghilangkannya (nun).",
+              "start": 307.922,
+              "end": 313.143
+            },
+            {
+              "label": null,
+              "ar": "بَابُ الأَفْعَالِ",
+              "id": "Bab Fi'il-Fi'il",
+              "start": 314.283,
+              "end": 315.322
+            },
+            {
+              "label": null,
+              "ar": "الأَفْعَالُ ثَلَاثَةٌ: مَاضٍ، وَمُضَارِعٌ، وَأَمْرٌ؛ نَحْوُ: ضَرَبَ، وَيَضْرِبُ، وَاضْرِبْ.",
+              "id": "Fi'il ada tiga: madhi (lampau), mudhari' (sedang/akan), dan amr (perintah); seperti: dharaba (telah memukul), yadhribu (sedang memukul), dan idhrib (pukullah).",
+              "start": 315.723,
+              "end": 321.903
+            },
+            {
+              "label": null,
+              "ar": "فَالمَاضِي: مَفْتُوحُ الآخِرِ أَبَداً.",
+              "id": "Adapun fi'il madhi: akhirnya selalu berharakat fathah.",
+              "start": 322.92,
+              "end": 324.644
+            },
+            {
+              "label": null,
+              "ar": "وَالأَمْرُ: مَجْزُومٌ أَبَداً.",
+              "id": "Dan fi'il amr: selalu majzum.",
+              "start": 325.024,
+              "end": 326.865
+            },
+            {
+              "label": null,
+              "ar": "وَالمُضَارِعُ: مَا كَانَ فِي أَوَّلِهِ إِحْدَى الزَّوَائِدِ الأَرْبَعِ؛ يَجْمَعُهَا قَوْلُكَ: «أَنَيْتُ»، وَهُوَ مَرْفُوعٌ أَبَداً، حَتَّى يَدْخُلَ عَلَيْهِ نَاصِبٌ أَوْ جَازِمٌ.",
+              "id": "Dan fi'il mudhari': yaitu yang pada awalnya terdapat salah satu dari empat huruf tambahan; yang terkumpul dalam ucapanmu 'anaitu' (hamzah, nun, ya', ta'), dan ia selalu marfu', sampai kemasukan 'amil nashib atau 'amil jazm.",
+              "start": 327.245,
+              "end": 337.353
+            },
+            {
+              "label": null,
+              "ar": "فَالنَّوَاصِبُ عَشَرَةٌ؛ وَهِيَ:",
+              "id": "Adapun huruf-huruf nashib (yang menashabkan) ada sepuluh; yaitu:",
+              "start": 337.834,
+              "end": 340.195
+            },
+            {
+              "label": null,
+              "ar": "أَنْ، وَلَنْ، وَإِذَنْ.",
+              "id": "an, lan, dan idzan,",
+              "start": 340.195,
+              "end": 341.637
+            },
+            {
+              "label": null,
+              "ar": "وَكَيْ، وَلَامُ كَيْ، وَلَامُ الجُحُودِ، وَحَتَّى.",
+              "id": "kay, lam kay, lam juhud, dan hatta,",
+              "start": 341.637,
+              "end": 342.117
+            },
+            {
+              "label": null,
+              "ar": "وَالجَوَابُ بِالفَاءِ، وَالوَاوِ، وَأَوْ.",
+              "id": "serta jawab (dari syarat) dengan fa', wawu, dan au.",
+              "start": 345.2,
+              "end": 347.722
+            },
+            {
+              "label": null,
+              "ar": "وَالجَوَازِمُ ثَمَانِيَةَ عَشَرَ؛ وَهِيَ:",
+              "id": "Adapun huruf-huruf jazm (yang menjazmkan) ada delapan belas; yaitu:",
+              "start": 348.123,
+              "end": 351.06
+            },
+            {
+              "label": null,
+              "ar": "لَمْ، وَلَمَّا، وَأَلَمْ، وَأَلَمَّا.",
+              "id": "lam, lammaa, alam, dan alammaa,",
+              "start": 351.06,
+              "end": 352.663
+            },
+            {
+              "label": null,
+              "ar": "وَلَامُ الأَمْرِ وَالدُّعَاءِ، وَ «لَا» فِي النَّهْيِ وَالدُّعَاءِ.",
+              "id": "lam amr dan du'a, serta 'laa' dalam larangan dan doa,",
+              "start": 353.731,
+              "end": 357.471
+            },
+            {
+              "label": null,
+              "ar": "وَإِنْ، وَمَا، وَمَنْ، وَمَهْمَا، وَإِذْمَا.",
+              "id": "in, maa, man, mahmaa, dan idzmaa,",
+              "start": 357.951,
+              "end": 359.54
+            },
+            {
+              "label": null,
+              "ar": "وَأَيٌّ، وَمَتَى، وَأَيَّانَ، وَأَيْنَ، وَأَنَّى.",
+              "id": "ayyun, mataa, ayyaana, aina, dan annaa,",
+              "start": 360.774,
+              "end": 363.256
+            },
+            {
+              "label": null,
+              "ar": "وَحَيْثُمَا، وَكَيْفَمَا، وَ «إِذَا» فِي الشِّعْرِ خَاصَّةً.",
+              "id": "haitsumaa, kaifamaa, dan 'idzaa' khusus dalam syair.",
+              "start": 366.574,
+              "end": 367.94
+            },
+            {
+              "label": null,
+              "ar": "بَابُ",
+              "id": "Bab",
+              "start": 368.361,
+              "end": 368.955
+            },
+            {
+              "label": null,
+              "ar": "مَرْفُوعَاتِ الأَسْمَاءِ",
+              "id": "Isim-Isim yang Dirafa'kan",
+              "start": 368.955,
+              "end": 370.142
+            },
+            {
+              "label": null,
+              "ar": "المَرْفُوعَاتُ سَبْعَةٌ؛ وَهِيَ:",
+              "id": "Yang dirafa'kan ada tujuh; yaitu:",
+              "start": 370.863,
+              "end": 373.397
+            },
+            {
+              "label": null,
+              "ar": "الفَاعِلُ، وَالمَفْعُولُ الَّذِي لَمْ يُسَمَّ فَاعِلُهُ.",
+              "id": "fa'il (subjek/pelaku), dan maf'ul yang tidak disebutkan pelakunya (na'ibul fa'il),",
+              "start": 373.397,
+              "end": 376.946
+            },
+            {
+              "label": null,
+              "ar": "وَالمُبْتَدَأُ، وَخَبَرُهُ.",
+              "id": "mubtada, dan khabarnya,",
+              "start": 376.946,
+              "end": 378.129
+            },
+            {
+              "label": null,
+              "ar": "وَاسْمُ «كَانَ» وَأَخَوَاتِهَا، وَخَبَرُ «إِنَّ» وَأَخَوَاتِهَا.",
+              "id": "isim 'kaana' beserta saudara-saudaranya, dan khabar 'inna' beserta saudara-saudaranya,",
+              "start": 378.608,
+              "end": 382.312
+            },
+            {
+              "label": null,
+              "ar": "وَالتَّابِعُ لِلْمَرْفُوعِ - وَهُوَ أَرْبَعَةُ أَشْيَاءَ: النَّعْتُ، وَالعَطْفُ، وَالتَّوْكِيدُ، وَالبَدَلُ ـ.",
+              "id": "serta yang mengikuti kata yang dirafa'kan - dan itu ada empat hal: na'at (sifat), 'athf (kata sambung), taukid (penguat), dan badal (pengganti) -.",
+              "start": 382.971,
+              "end": 389.396
+            },
+            {
+              "label": null,
+              "ar": "بَابُ الفَاعِلِ",
+              "id": "Bab Fa'il (Subjek)",
+              "start": 390.096,
+              "end": 390.997
+            },
+            {
+              "label": null,
+              "ar": "الفَاعِلُ: هُوَ الِاسْمُ المَرْفُوعُ المَذْكُورُ قَبْلَهُ فِعْلُهُ.",
+              "id": "Fa'il adalah: isim yang dirafa'kan yang disebutkan sebelumnya fi'ilnya.",
+              "start": 391.457,
+              "end": 395.019
+            },
+            {
+              "label": null,
+              "ar": "وَهُوَ عَلَى قِسْمَيْنِ: ظَاهِرٍ، وَمُضْمَرٍ.",
+              "id": "Ia terbagi dua bagian: zhahir (tampak/jelas), dan mudhmar (tersembunyi/berupa dhamir).",
+              "start": 395.379,
+              "end": 397.731
+            },
+            {
+              "label": null,
+              "ar": "فَالظَّاهِرُ؛ نَحْوُ قَوْلِكَ: قَامَ زَيْدٌ، وَيَقُومُ زَيْدٌ.",
+              "id": "Adapun yang zhahir; seperti ucapanmu: 'Zaid telah berdiri', dan 'Zaid sedang berdiri'.",
+              "start": 398.723,
+              "end": 400.563
+            },
+            {
+              "label": null,
+              "ar": "وَقَامَ الزَّيْدَانِ، وَيَقُومُ الزَّيْدَانِ.",
+              "id": "'Kedua Zaid itu telah berdiri', dan 'kedua Zaid itu sedang berdiri'.",
+              "start": 401.285,
+              "end": 405.16
+            },
+            {
+              "label": null,
+              "ar": "وَقَامَ الزَّيْدُونَ، وَيَقُومُ الزَّيْدُونَ.",
+              "id": "'Para Zaid itu telah berdiri', dan 'para Zaid itu sedang berdiri'.",
+              "start": 405.16,
+              "end": 407.906
+            },
+            {
+              "label": null,
+              "ar": "وَقَامَ الرِّجَالُ، وَيَقُومُ الرِّجَالُ.",
+              "id": "'Orang-orang itu telah berdiri', dan 'orang-orang itu sedang berdiri'.",
+              "start": 407.906,
+              "end": 410.652
+            },
+            {
+              "label": null,
+              "ar": "وَقَامَتْ هِنْدٌ، وَتَقُومُ هِنْدٌ.",
+              "id": "'Hindun telah berdiri', dan 'Hindun sedang berdiri'.",
+              "start": 411.293,
+              "end": 413.96
+            },
+            {
+              "label": null,
+              "ar": "وَقَامَتِ الهِنْدَانِ، وَتَقُومُ الهِنْدَانِ.",
+              "id": "'Kedua Hindun itu telah berdiri', dan 'kedua Hindun itu sedang berdiri'.",
+              "start": 413.96,
+              "end": 416.627
+            },
+            {
+              "label": null,
+              "ar": "وَقَامَتِ الهِنْدَاتُ، وَتَقُومُ الهِنْدَاتُ.",
+              "id": "'Para Hindun itu telah berdiri', dan 'para Hindun itu sedang berdiri'.",
+              "start": 416.627,
+              "end": 419.294
+            },
+            {
+              "label": null,
+              "ar": "وَقَامَتِ الهُنُودُ، وَيَقُومُ الهُنُودُ.",
+              "id": "'Orang-orang Hindun itu telah berdiri', dan 'orang-orang Hindun itu sedang berdiri'.",
+              "start": 419.294,
+              "end": 421.961
+            },
+            {
+              "label": null,
+              "ar": "وَقَامَ أَخُوكَ، وَيَقُومُ أَخُوكَ.",
+              "id": "'Saudaramu telah berdiri', dan 'saudaramu sedang berdiri'.",
+              "start": 422.502,
+              "end": 424.984
+            },
+            {
+              "label": null,
+              "ar": "وَقَامَ غُلَامِي، وَيَقُومُ غُلَامِي.",
+              "id": "'Pelayanku telah berdiri', dan 'pelayanku sedang berdiri'.",
+              "start": 424.984,
+              "end": 427.466
+            },
+            {
+              "label": null,
+              "ar": "وَالمُضْمَرُ اثْنَا عَشَرَ؛ نَحْوُ قَوْلِكَ: ضَرَبْتُ، وَضَرَبْنَا.",
+              "id": "Adapun yang mudhmar (dhamir) ada dua belas; seperti ucapanmu: 'aku telah memukul', dan 'kami telah memukul',",
+              "start": 428.046,
+              "end": 432.149
+            },
+            {
+              "label": null,
+              "ar": "وَضَرَبْتَ، وَضَرَبْتِ، وَضَرَبْتُمَا، وَضَرَبْتُمْ، وَضَرَبْتُنَّ.",
+              "id": "'engkau (lk) telah memukul', 'engkau (pr) telah memukul', 'kalian berdua telah memukul', 'kalian (lk, jamak) telah memukul', 'kalian (pr, jamak) telah memukul',",
+              "start": 432.909,
+              "end": 436.772
+            },
+            {
+              "label": null,
+              "ar": "وَضَرَبَ، وَضَرَبَتْ، وَضَرَبَا، وَضَرَبُوا، وَضَرَبْنَ.",
+              "id": "'dia (lk) telah memukul', 'dia (pr) telah memukul', 'mereka berdua telah memukul', 'mereka (lk) telah memukul', 'mereka (pr) telah memukul'.",
+              "start": 437.394,
+              "end": 440.815
+            },
+            {
+              "label": null,
+              "ar": "بَابُ المَفْعُولِ الَّذِي لَمْ يُسَمَّ فَاعِلُهُ",
+              "id": "Bab Maf'ul yang Tidak Disebutkan Pelakunya (Na'ibul Fa'il)",
+              "start": 441.576,
+              "end": 444.298
+            },
+            {
+              "label": null,
+              "ar": "وَهُوَ: الِاسْمُ المَرْفُوعُ الَّذِي لَمْ يُذْكَرْ مَعَهُ فَاعِلُهُ.",
+              "id": "Yaitu: isim yang dirafa'kan yang tidak disebutkan besertanya pelakunya (fa'il).",
+              "start": 444.658,
+              "end": 448.281
+            },
+            {
+              "label": null,
+              "ar": "فَإِنْ كَانَ الفِعْلُ مَاضِياً: ضُمَّ أَوَّلُهُ وَكُسِرَ مَا قَبْلَ آخِرِهِ.",
+              "id": "Jika fi'ilnya madhi (lampau): huruf pertamanya di-dhammah-kan dan huruf sebelum akhirnya di-kasrah-kan.",
+              "start": 448.702,
+              "end": 453.486
+            },
+            {
+              "label": null,
+              "ar": "وَإِنْ كَانَ مُضَارِعاً: ضُمَّ أَوَّلُهُ وَفُتِحَ مَا قَبْلَ آخِرِهِ.",
+              "id": "Dan jika fi'ilnya mudhari': huruf pertamanya di-dhammah-kan dan huruf sebelum akhirnya di-fathah-kan.",
+              "start": 453.947,
+              "end": 458.49
+            },
+            {
+              "label": null,
+              "ar": "وَهُوَ عَلَى قِسْمَيْنِ: ظَاهِرٍ، وَمُضْمَرٍ.",
+              "id": "Ia terbagi dua bagian: zhahir, dan mudhmar.",
+              "start": 458.971,
+              "end": 461.952
+            },
+            {
+              "label": null,
+              "ar": "فَالظَّاهِرُ؛ نَحْوُ قَوْلِكَ: ضُرِبَ زَيْدٌ، وَيُضْرَبُ زَيْدٌ، وَأُكْرِمَ عَمْرٌو، وَيُكْرَمُ عَمْرٌو.",
+              "id": "Adapun yang zhahir; seperti ucapanmu: 'Zaid telah dipukul', 'Zaid sedang dipukul', 'Amr telah dimuliakan', dan 'Amr sedang dimuliakan'.",
+              "start": 462.413,
+              "end": 467.999
+            },
+            {
+              "label": null,
+              "ar": "وَالمُضْمَرُ اثْنَا عَشَرَ؛ نَحْوُ قَوْلِكَ: ضُرِبْتُ، وَضُرِبْنَا.",
+              "id": "Adapun yang mudhmar (dhamir) ada dua belas; seperti ucapanmu: 'aku telah dipukul', dan 'kami telah dipukul',",
+              "start": 469.358,
+              "end": 473.262
+            },
+            {
+              "label": null,
+              "ar": "وَضُرِبْتَ، وَضُرِبْتِ، وَضُرِبْتُمَا، وَضُرِبْتُمْ، وَضُرِبْتُنَّ.",
+              "id": "'engkau (lk) telah dipukul', 'engkau (pr) telah dipukul', 'kalian berdua telah dipukul', 'kalian (lk) telah dipukul', 'kalian (pr) telah dipukul',",
+              "start": 473.663,
+              "end": 476.685
+            },
+            {
+              "label": null,
+              "ar": "وَضُرِبَ، وَضُرِبَتْ، وَضُرِبَا، وَضُرِبُوا، وَضُرِبْنَ.",
+              "id": "'dia (lk) telah dipukul', 'dia (pr) telah dipukul', 'mereka berdua telah dipukul', 'mereka (lk) telah dipukul', 'mereka (pr) telah dipukul'.",
+              "start": 479.277,
+              "end": 481.534
+            },
+            {
+              "label": null,
+              "ar": "بَابُ المُبْتَدَأُ وَالخَبَرِ",
+              "id": "Bab Mubtada dan Khabar",
+              "start": 481.534,
+              "end": 483.531
+            },
+            {
+              "label": null,
+              "ar": "المُبْتَدَأُ: هُوَ الِاسْمُ المَرْفُوعُ العَارِي عَنِ العَوَامِلِ اللَّفْظِيَّةِ.",
+              "id": "Mubtada adalah: isim yang dirafa'kan yang bersih (tidak dimasuki) dari 'amil-'amil lafazh.",
+              "start": 484.091,
+              "end": 487.715
+            },
+            {
+              "label": null,
+              "ar": "وَالخَبَرُ: هُوَ الِاسْمُ المَرْفُوعُ المُسْنَدُ إِلَيْهِ.",
+              "id": "Dan khabar adalah: isim yang dirafa'kan yang disandarkan kepadanya (mubtada).",
+              "start": 488.574,
+              "end": 491.596
+            },
+            {
+              "label": null,
+              "ar": "نَحْوُ قَوْلِكَ: زَيْدٌ قَائِمٌ، وَالزَّيْدَانِ قَائِمَانِ، وَالزَّيْدُونَ قَائِمُونَ.",
+              "id": "Seperti ucapanmu: 'Zaid berdiri', 'kedua Zaid itu berdiri', dan 'para Zaid itu berdiri'.",
+              "start": 492.038,
+              "end": 497.521
+            },
+            {
+              "label": null,
+              "ar": "وَالمُبْتَدَأُ قِسْمَانِ: ظَاهِرٌ، وَمُضْمَرٌ.",
+              "id": "Mubtada terbagi dua bagian: zhahir, dan mudhmar.",
+              "start": 497.882,
+              "end": 500.433
+            },
+            {
+              "label": null,
+              "ar": "فَالظَّاهِرُ؛ مَا تَقَدَّمَ ذِكْرُهُ.",
+              "id": "Adapun yang zhahir; yaitu yang telah disebutkan sebelumnya.",
+              "start": 500.433,
+              "end": 502.985
+            },
+            {
+              "label": null,
+              "ar": "وَالمُضْمَرُ اثْنَا عَشَرَ؛ وَهِيَ: أَنَا، وَنَحْنُ.",
+              "id": "Adapun yang mudhmar ada dua belas; yaitu: ana (aku), dan nahnu (kami/kita),",
+              "start": 503.326,
+              "end": 506.741
+            },
+            {
+              "label": null,
+              "ar": "وَأَنْتَ، وَأَنْتِ، وَأَنْتُمَا، وَأَنْتُمْ، وَأَنْتُنَّ.",
+              "id": "anta (engkau lk), anti (engkau pr), antumaa (kalian berdua), antum (kalian lk), antunna (kalian pr),",
+              "start": 506.741,
+              "end": 508.894
+            },
+            {
+              "label": null,
+              "ar": "وَهُوَ، وَهِيَ، وَهُمَا، وَهُمْ، وَهُنَّ.",
+              "id": "huwa (dia lk), hiya (dia pr), humaa (mereka berdua), hum (mereka lk), hunna (mereka pr),",
+              "start": 510.211,
+              "end": 512.453
+            },
+            {
+              "label": null,
+              "ar": "نَحْوُ قَوْلِكَ: أَنَا قَائِمٌ، وَنَحْنُ قَائِمُونَ، وَمَا أَشْبَهَ ذَلِكَ.",
+              "id": "seperti ucapanmu: 'aku berdiri', 'kami berdiri', dan yang serupa dengan itu.",
+              "start": 513.154,
+              "end": 517.957
+            },
+            {
+              "label": null,
+              "ar": "وَالخَبَرُ قِسْمَانِ: مُفْرَدٌ، وَغَيْرُ مُفْرَدٍ.",
+              "id": "Khabar terbagi dua bagian: mufrad, dan ghairu mufrad (bukan mufrad).",
+              "start": 518.318,
+              "end": 521.541
+            },
+            {
+              "label": null,
+              "ar": "فَالمُفْرَدُ؛ نَحْوُ قَوْلِكَ: زَيْدٌ قَائِمٌ.",
+              "id": "Adapun yang mufrad; seperti ucapanmu: 'Zaid berdiri'.",
+              "start": 521.942,
+              "end": 524.545
+            },
+            {
+              "label": null,
+              "ar": "وَغَيْرُ المُفْرَدِ أَرْبَعَةُ أَشْيَاءَ: الجَارُّ وَالمَجْرُورُ، وَالظَّرْفُ، وَالفِعْلُ مَعَ فَاعِلِهِ، وَالمُبْتَدَأُ مَعَ خَبَرِهِ.",
+              "id": "Adapun yang ghairu mufrad ada empat hal: jar dan majrur, zharaf, fi'il beserta fa'ilnya, dan mubtada beserta khabarnya.",
+              "start": 524.926,
+              "end": 533.718
+            },
+            {
+              "label": null,
+              "ar": "نَحْوُ قَوْلِكَ: زَيْدٌ فِي الدَّارِ، وَزَيْدٌ عِنْدَكَ، وَزَيْدٌ قَامَ أَبُوهُ، وَزَيْدٌ جَارِيَتُهُ ذَاهِبَةٌ.",
+              "id": "Seperti ucapanmu: 'Zaid di rumah', 'Zaid di sisimu', 'Zaid, ayahnya telah berdiri', dan 'Zaid, pelayan perempuannya sedang pergi'.",
+              "start": 534.439,
+              "end": 541.326
+            },
+            {
+              "label": null,
+              "ar": "بَابُ",
+              "id": "Bab",
+              "start": 541.826,
+              "end": 542.38
+            },
+            {
+              "label": null,
+              "ar": "العَوَامِلِ الدَّاخِلَةِ عَلَى المُبْتَدَأِ وَالخَبَرِ",
+              "id": "'Amil-'Amil yang Masuk pada Mubtada dan Khabar",
+              "start": 542.38,
+              "end": 545.149
+            },
+            {
+              "label": null,
+              "ar": "وَهِيَ ثَلَاثَةُ أَشْيَاءَ: كَانَ وَأَخَوَاتُهَا، وَإِنَّ وَأَخَوَاتُهَا، وَظَنَنْتُ وَأَخَوَاتُهَا.",
+              "id": "Ada tiga hal: kaana beserta saudara-saudaranya, inna beserta saudara-saudaranya, dan zhanantu beserta saudara-saudaranya.",
+              "start": 545.688,
+              "end": 552.475
+            },
+            {
+              "label": null,
+              "ar": "فَأَمَّا كَانَ وَأَخَوَاتُهَا: فَإِنَّهَا تَرْفَعُ الِاسْمَ وَتَنْصِبُ الخَبَرَ.",
+              "id": "Adapun kaana beserta saudara-saudaranya: ia me-rafa'-kan isim dan me-nashab-kan khabar.",
+              "start": 553.034,
+              "end": 557.879
+            },
+            {
+              "label": null,
+              "ar": "وَهِيَ: كَانَ، وَأَمْسَى، وَأَصْبَحَ، وَأَضْحَى، وَظَلَّ، وَبَاتَ، وَصَارَ، وَلَيْسَ، وَمَا زَالَ، وَمَا انْفَكَّ، وَمَا فَتِئَ، وَمَا بَرِحَ، وَمَا دَامَ، وَمَا تَصَرَّفَ مِنْهَا - نَحْوُ: كَانَ وَيَكُونُ وَكُنْ، وَأَصْبَحَ وَيُصْبِحُ وَأَصْبِحْ ـ.",
+              "id": "Yaitu: kaana, amsaa, ashbaha, adhhaa, zhalla, baata, shaara, laisa, maa zaala, maa infakka, maa fati'a, maa bariha, maa daama, dan bentuk tashrif (perubahan)-nya - seperti: kaana, yakuunu, kun; ashbaha, yushbihu, ashbih -.",
+              "start": 558.539,
+              "end": 574.843
+            },
+            {
+              "label": null,
+              "ar": "تَقُولُ: كَانَ زَيْدٌ قَائِماً، وَلَيْسَ عَمْرٌو شَاخِصاً، وَمَا أَشْبَهَ ذَلِكَ.",
+              "id": "Engkau katakan: 'Zaid dahulu berdiri', 'Amr tidak nampak', dan yang serupa dengan itu.",
+              "start": 575.504,
+              "end": 581.247
+            },
+            {
+              "label": null,
+              "ar": "وَأَمَّا إِنَّ وَأَخَوَاتُهَا: فَإِنَّهَا تَنْصِبُ الِاسْمَ وَتَرْفَعُ الخَبَرَ.",
+              "id": "Adapun inna beserta saudara-saudaranya: ia me-nashab-kan isim dan me-rafa'-kan khabar.",
+              "start": 581.707,
+              "end": 586.451
+            },
+            {
+              "label": null,
+              "ar": "وَهِيَ: إِنَّ، وَأَنَّ، وَلَكِنَّ، وَكَأَنَّ، وَلَيْتَ، وَلَعَلَّ.",
+              "id": "Yaitu: inna, anna, laakinna, ka-anna, laita, dan la'alla.",
+              "start": 586.831,
+              "end": 590.793
+            },
+            {
+              "label": null,
+              "ar": "تَقُولُ: إِنَّ زَيْداً قَائِمٌ، وَلَيْتَ عَمْراً شَاخِصٌ.",
+              "id": "Engkau katakan: 'Sesungguhnya Zaid berdiri', dan 'seandainya Amr nampak'.",
+              "start": 591.453,
+              "end": 595.037
+            },
+            {
+              "label": null,
+              "ar": "وَمَعْنَى إِنَّ وَأَنَّ لِلتَّوْكِيدِ، وَلَكِنَّ لِلِاسْتِدْرَاكِ، وَكَأَنَّ لِلتَّشْبِيهِ، وَلَيْتَ لِلتَّمَنِّي، وَلَعَلَّ لِلتَّرَجِّي وَالتَّوَقُّعِ.",
+              "id": "Makna inna dan anna untuk penekanan (taukid), laakinna untuk pengecualian (istidrak), ka-anna untuk penyerupaan (tasybih), laita untuk pengandaian (tamanni), dan la'alla untuk pengharapan dan penantian (tarajji dan tawaqqu').",
+              "start": 595.576,
+              "end": 605.581
+            },
+            {
+              "label": null,
+              "ar": "وَأَمَّا ظَنَنْتُ وَأَخَوَاتُهَا: فَإِنَّها تَنْصِبُ المُبْتَدَأَ وَالخَبَرَ عَلَى أَنَّهُمَا مَفْعُولَانِ لَهَا.",
+              "id": "Adapun zhanantu beserta saudara-saudaranya: ia me-nashab-kan mubtada dan khabar sebagai dua maf'ul baginya.",
+              "start": 605.962,
+              "end": 612.605
+            },
+            {
+              "label": null,
+              "ar": "وَهِيَ: ظَنَنْتُ، وَحَسِبْتُ، وَخِلْتُ، وَزَعَمْتُ، وَرَأَيْتُ، وَعَلِمْتُ، وَوَجَدْتُ، وَاتَّخَذْتُ، وَجَعَلْتُ، وَسَمِعْتُ.",
+              "id": "Yaitu: zhanantu, hasibtu, khiltu, za'amtu, ra-aitu, 'alimtu, wajadtu, ittakhadztu, ja'altu, dan sami'tu.",
+              "start": 613.145,
+              "end": 620.408
+            },
+            {
+              "label": null,
+              "ar": "تَقُولُ: ظَنَنْتُ زَيْداً مُنْطَلِقاً، وَخِلْتُ عَمْراً شَاخِصاً، وَمَا أَشْبَهَ ذَلِكَ.",
+              "id": "Engkau katakan: 'aku mengira Zaid berjalan pergi', 'aku mengira Amr nampak', dan yang serupa dengan itu.",
+              "start": 620.749,
+              "end": 626.491
+            },
+            {
+              "label": null,
+              "ar": "بَابُ النَّعْتِ",
+              "id": "Bab Na'at (Sifat)",
+              "start": 627.172,
+              "end": 628.013
+            },
+            {
+              "label": null,
+              "ar": "النَّعْتُ: تَابِعٌ لِلْمَنْعُوتِ فِي رَفْعِهِ، وَنَصْبِهِ، وَخَفْضِهِ، وَتَعْرِيفِهِ وَتَنْكِيرِهِ.",
+              "id": "Na'at adalah: yang mengikuti kata yang disifati (man'ut) dalam rafa'nya, nashabnya, khafadhnya, ma'rifahnya, dan nakirahnya.",
+              "start": 628.452,
+              "end": 633.937
+            },
+            {
+              "label": null,
+              "ar": "تَقُولُ: قَامَ زَيْدٌ العَاقِلُ، وَرَأَيْتُ زَيْداً العَاقِلَ، وَمَرَرْتُ بِزَيْدٍ العَاقِلِ.",
+              "id": "Engkau katakan: 'Zaid yang berakal telah berdiri', 'aku melihat Zaid yang berakal', dan 'aku melewati Zaid yang berakal'.",
+              "start": 634.417,
+              "end": 639.874
+            },
+            {
+              "label": null,
+              "ar": "وَالمَعْرِفَةُ خَمْسَةُ أَشْيَاءَ:",
+              "id": "Dan ma'rifah (kata yang sudah tertentu/dikenal) ada lima hal:",
+              "start": 640.941,
+              "end": 642.022
+            },
+            {
+              "label": null,
+              "ar": "الِاسْمُ المُضْمَرُ؛ نَحْوُ: أَنَا، وَأَنْتَ.",
+              "id": "isim mudhmar (kata ganti); seperti: ana (aku), dan anta (engkau),",
+              "start": 642.022,
+              "end": 645.137
+            },
+            {
+              "label": null,
+              "ar": "وَالِاسْمُ العَلَمُ؛ نَحْوُ: زَيْدٍ، وَمَكَّةَ.",
+              "id": "dan isim 'alam (nama diri); seperti: Zaid, dan Makkah,",
+              "start": 645.137,
+              "end": 648.253
+            },
+            {
+              "label": null,
+              "ar": "وَالِاسْمُ المُبْهَمُ؛ نَحْوُ: هَذَا، وَهَذِهِ، وَهَؤُلَاءِ.",
+              "id": "dan isim mubham (yang samar/kata tunjuk); seperti: haadzaa (ini lk), haadzihi (ini pr), dan haa-ulaa-i (mereka ini),",
+              "start": 648.253,
+              "end": 651.991
+            },
+            {
+              "label": null,
+              "ar": "وَالِاسْمُ الَّذِي فِيهِ الأَلِفُ وَاللَّامُ؛ نَحْوُ: الرَّجُلِ، وَالغُلَامِ.",
+              "id": "dan isim yang di dalamnya terdapat alif dan lam; seperti: ar-rajul (laki-laki itu), dan al-ghulaam (anak itu),",
+              "start": 651.991,
+              "end": 656.975
+            },
+            {
+              "label": null,
+              "ar": "وَمَا أُضِيفَ إِلَى وَاحِدٍ مِنْ هَذِهِ الأَرْبَعَةِ.",
+              "id": "dan apa yang disandarkan kepada salah satu dari keempat hal ini (idhafah).",
+              "start": 656.975,
+              "end": 659.957
+            },
+            {
+              "label": null,
+              "ar": "وَالنَّكِرَةُ: كُلُّ اسْمٍ شَائِعٍ فِي جِنْسِهِ، لَا يَخْتَصُّ بِهِ وَاحِدٌ دُونَ آخَرَ.",
+              "id": "Dan nakirah adalah: setiap isim yang umum pada jenisnya, tidak dikhususkan padanya satu (individu) tanpa yang lain.",
+              "start": 660.558,
+              "end": 666.783
+            },
+            {
+              "label": null,
+              "ar": "وَتَقْرِيبُهُ: كُلُّ مَا صَلَحَ دُخُولُ الأَلِفِ وَاللَّامِ عَلَيْهِ - نَحْوُ: الرَّجُلِ، وَالفَرَسِ ـ.",
+              "id": "Kesederhanaannya (patokan mudahnya): setiap kata yang layak dimasuki alif dan lam - seperti: ar-rajul (laki-laki itu), dan al-faras (kuda itu) -.",
+              "start": 667.264,
+              "end": 673.048
+            },
+            {
+              "label": null,
+              "ar": "بَابُ العَطْفِ",
+              "id": "Bab 'Athf (Kata Sambung)",
+              "start": 674.129,
+              "end": 674.909
+            },
+            {
+              "label": null,
+              "ar": "وَحُرُوفُ العَطْفِ عَشَرَةٌ؛ وَهِيَ: الوَاوُ، وَالفَاءُ، وَثُمَّ، وَأَوْ، وَأَمْ، وَإِمَّا، وَبَلْ، وَلَا، وَلَكِنْ، وَحَتَّى فِي بَعْضِ المَوَاضِعِ.",
+              "id": "Huruf-huruf 'athf ada sepuluh; yaitu: wawu, fa', tsumma, au, am, immaa, bal, laa, laakin, dan hattaa pada sebagian tempat.",
+              "start": 675.311,
+              "end": 684.577
+            },
+            {
+              "label": null,
+              "ar": "فَإِنْ عَطَفْتَ بِهَا عَلَى مَرْفُوعٍ رَفَعْتَ، أَوْ عَلَى مَنْصُوبٍ نَصَبْتَ، أَوْ عَلَى مَخْفُوضٍ خَفَضْتَ، أَوْ عَلَى مَجْزُومٍ جَزَمْتَ.",
+              "id": "Jika engkau meng-'athf-kan dengannya kepada kata yang dirafa'kan maka engkau rafa'kan, atau kepada yang dinashabkan maka engkau nashabkan, atau kepada yang dikhafadhkan maka engkau khafadhkan, atau kepada yang dijazmkan maka engkau jazmkan.",
+              "start": 685.139,
+              "end": 693.848
+            },
+            {
+              "label": null,
+              "ar": "تَقُولُ: قَامَ زَيْدٌ وَعَمْرٌو، وَرَأَيْتُ زَيْداً وَعَمْراً، وَمَرَرْتُ بِزَيْدٍ وَعَمْرٍو، وَزَيْدُ لَمْ يَقُمْ وَلَمْ يَقْعُدْ.",
+              "id": "Engkau katakan: 'Zaid dan Amr telah berdiri', 'aku melihat Zaid dan Amr', 'aku melewati Zaid dan Amr', dan 'Zaid tidak berdiri dan tidak duduk'.",
+              "start": 694.488,
+              "end": 702.458
+            },
+            {
+              "label": null,
+              "ar": "بَابُ التَّوْكِيدِ",
+              "id": "Bab Taukid (Penguat)",
+              "start": 703.468,
+              "end": 704.449
+            },
+            {
+              "label": null,
+              "ar": "التَّوْكِيدُ: تَابِعٌ لِلْمُؤَكَّدِ فِي رَفْعِهِ، وَنَصْبِهِ، وَخَفْضِهِ، وَتَعْرِيفِهِ.",
+              "id": "Taukid adalah: yang mengikuti kata yang ditekankan (mu'akkad) dalam rafa'nya, nashabnya, khafadhnya, dan ma'rifahnya.",
+              "start": 704.908,
+              "end": 709.932
+            },
+            {
+              "label": null,
+              "ar": "وَيَكُونُ بِأَلْفَاظٍ مَعْلُومَةٍ؛ وَهِيَ: النَّفْسُ، وَالعَيْنُ، وَكُلُّ، وَأَجْمَعُ، وَتَوَابِعُ أَجْمَعَ - وَهِيَ: أَكْتَعُ، وَأَبْتَعُ، وَأَبْصَعُ ـ.",
+              "id": "Dan ia terbentuk dengan lafazh-lafazh tertentu; yaitu: an-nafsu (diri), al-'ainu (diri/mata), kullun (seluruh), ajma'u (semua), dan kata-kata yang mengikuti ajma'u - yaitu: akta'u, abta'u, dan absha'u -.",
+              "start": 710.353,
+              "end": 718.338
+            },
+            {
+              "label": null,
+              "ar": "تَقُولُ: قَامَ زَيْدٌ نَفْسُهُ، وَرَأَيْتُ القَوْمَ كُلَّهُمْ، وَمَرَرْتُ بِالقَوْمِ أَجْمَعِينَ.",
+              "id": "Engkau katakan: 'Zaid sendiri telah berdiri', 'aku melihat kaum itu seluruhnya', dan 'aku melewati kaum itu semuanya'.",
+              "start": 719.839,
+              "end": 726.046
+            },
+            {
+              "label": null,
+              "ar": "بَابُ البَدَلِ",
+              "id": "Bab Badal (Pengganti)",
+              "start": 726.627,
+              "end": 727.328
+            },
+            {
+              "label": null,
+              "ar": "إِذَا أُبْدِلَ اسْمٌ مِنِ اسْمٍ، أَوْ فِعْلٌ مِنْ فِعْلٍ: تَبِعَهُ فِي جَمِيعِ إِعْرَابِهِ.",
+              "id": "Apabila diganti suatu isim dari isim (lain), atau suatu fi'il dari fi'il (lain): maka ia mengikutinya dalam seluruh i'rabnya.",
+              "start": 727.808,
+              "end": 732.834
+            },
+            {
+              "label": null,
+              "ar": "وَهُوَ أَرْبَعَةُ أَقْسَامٍ: بَدَلُ الشَّيْءِ مِنَ الشَّيْءِ، وَبَدَلُ البَعْضِ مِنَ الكُلِّ، وَبَدَلُ الِاشْتِمَالِ، وَبَدَلُ الغَلَطِ.",
+              "id": "Dan ia ada empat pembagian: badal sesuatu dari sesuatu (yang sama), badal sebagian dari keseluruhan, badal isytimal (mencakup), dan badal ghalath (kekeliruan).",
+              "start": 733.296,
+              "end": 740.82
+            },
+            {
+              "label": null,
+              "ar": "تَقُولُ: قَامَ زَيْدٌ أَخُوكَ، وَأَكَلْتُ الرَّغِيفَ ثُلُثَهُ، وَنَفَعَنِي زَيْدٌ عِلْمُهُ، وَرَأَيْتُ زَيْداً الفَرَسَ، أَرَدْتَ أَنْ تَقُولَ: الفَرَسَ؛ فَغَلِطْتَ، فَأَبْدَلْتَ زَيْداً مِنْهُ.",
+              "id": "Engkau katakan: 'Zaid, saudaramu, telah berdiri', 'aku memakan roti itu, sepertiganya', 'Zaid, ilmunya, telah memberiku manfaat', dan 'aku melihat Zaid, kuda itu' - engkau bermaksud mengatakan 'kuda itu', lalu engkau keliru, maka engkau menggantinya dengan 'Zaid'.",
+              "start": 741.261,
+              "end": 753.468
+            },
+            {
+              "label": null,
+              "ar": "بَابُ",
+              "id": "Bab",
+              "start": 754.087,
+              "end": 754.701
+            },
+            {
+              "label": null,
+              "ar": "مَنْصُوبَاتِ الأَسْمَاءِ",
+              "id": "Isim-Isim yang Dinashabkan",
+              "start": 754.701,
+              "end": 755.928
+            },
+            {
+              "label": null,
+              "ar": "المَنْصُوبَاتُ أَرْبَعَةَ عَشَرَ؛ وَهِيَ:",
+              "id": "Yang dinashabkan ada empat belas; yaitu:",
+              "start": 756.409,
+              "end": 759.274
+            },
+            {
+              "label": null,
+              "ar": "المَفْعُولُ بِهِ، وَالمَصْدَرُ.",
+              "id": "maf'ul bih (objek), dan mashdar,",
+              "start": 759.274,
+              "end": 760.963
+            },
+            {
+              "label": null,
+              "ar": "وَظَرْفُ الزَّمَانِ، وَظَرْفُ المَكَانِ.",
+              "id": "zharaf zaman (keterangan waktu), dan zharaf makan (keterangan tempat),",
+              "start": 760.963,
+              "end": 763.214
+            },
+            {
+              "label": null,
+              "ar": "وَالحَالُ، وَالتَّمْيِيزُ، وَالمُسْتَثْنَى.",
+              "id": "hal (keterangan keadaan), tamyiz (penjelas), dan mustatsna (yang dikecualikan),",
+              "start": 763.653,
+              "end": 765.975
+            },
+            {
+              "label": null,
+              "ar": "وَاسْمُ لَا، وَالمُنَادَى.",
+              "id": "isim 'laa', dan munada (yang dipanggil),",
+              "start": 767.166,
+              "end": 767.817
+            },
+            {
+              "label": null,
+              "ar": "وَالمَفْعُولُ مِنْ أَجْلِهِ، وَالمَفْعُولُ مَعَهُ.",
+              "id": "maf'ul min ajlihi (objek sebab), dan maf'ul ma'ahu (objek penyerta),",
+              "start": 768.278,
+              "end": 771.019
+            },
+            {
+              "label": null,
+              "ar": "وَخَبَرُ «كَانَ» وَأَخَوَاتِهَا، وَاسْمُ «إِنَّ» وَأَخَوَاتِهَا.",
+              "id": "khabar 'kaana' beserta saudara-saudaranya, dan isim 'inna' beserta saudara-saudaranya,",
+              "start": 771.48,
+              "end": 775.162
+            },
+            {
+              "label": null,
+              "ar": "وَالتَّابِعُ لِلْمَنْصُوبِ - وَهُوَ أَرْبَعَةُ أَشْيَاءَ: النَّعْتُ، وَالعَطْفُ، وَالتَّوْكِيدُ، وَالبَدَلُ ـ.",
+              "id": "serta yang mengikuti kata yang dinashabkan - dan itu ada empat hal: na'at, 'athf, taukid, dan badal -.",
+              "start": 775.662,
+              "end": 781.807
+            },
+            {
+              "label": null,
+              "ar": "بَابُ",
+              "id": "Bab",
+              "start": 782.326,
+              "end": 782.713
+            },
+            {
+              "label": null,
+              "ar": "المَفْعُولِ بِهِ",
+              "id": "Maf'ul Bih (Objek)",
+              "start": 782.713,
+              "end": 783.488
+            },
+            {
+              "label": null,
+              "ar": "وَهُوَ: الِاسْمُ المَنْصُوبُ الَّذِي يَقَعُ عَلَيْهِ الفِعْلُ.",
+              "id": "Yaitu: isim yang dinashabkan yang menjadi sasaran fi'il (perbuatan).",
+              "start": 783.908,
+              "end": 787.129
+            },
+            {
+              "label": null,
+              "ar": "نَحْوُ قَوْلِكَ: ضَرَبْتُ زَيْداً، وَرَكِبْتُ الفَرَسَ.",
+              "id": "Seperti ucapanmu: 'aku telah memukul Zaid', dan 'aku telah menaiki kuda itu'.",
+              "start": 787.629,
+              "end": 790.69
+            },
+            {
+              "label": null,
+              "ar": "وَهُوَ قِسْمَانِ: ظَاهِرٌ، وَمُضْمَرٌ.",
+              "id": "Ia terbagi dua bagian: zhahir, dan mudhmar.",
+              "start": 791.25,
+              "end": 793.75
+            },
+            {
+              "label": null,
+              "ar": "فَالظَّاهِرُ؛ مَا تَقَدَّمَ ذِكْرُهُ.",
+              "id": "Adapun yang zhahir; yaitu yang telah disebutkan sebelumnya.",
+              "start": 794.091,
+              "end": 796.692
+            },
+            {
+              "label": null,
+              "ar": "وَالمُضْمَرُ قِسْمَانِ: مُتَّصِلٌ، وَمُنْفَصِلٌ.",
+              "id": "Dan yang mudhmar terbagi dua bagian: muttashil (bersambung), dan munfashil (terpisah).",
+              "start": 796.692,
+              "end": 799.293
+            },
+            {
+              "label": null,
+              "ar": "فَالمُتَّصِلُ اثْنَا عَشَرَ؛ نَحْوُ قَوْلِكَ: ضَرَبَنِي، وَضَرَبَنَا.",
+              "id": "Adapun yang muttashil ada dua belas; seperti ucapanmu: 'ia telah memukulku', dan 'ia telah memukul kami',",
+              "start": 801.16,
+              "end": 804.577
+            },
+            {
+              "label": null,
+              "ar": "وَضَرَبَكَ، وَضَرَبَكِ، وَضَرَبَكُمَا، وَضَرَبَكُمْ، وَضَرَبَكُنَّ.",
+              "id": "'ia telah memukulmu (lk)', 'ia telah memukulmu (pr)', 'ia telah memukul kalian berdua', 'ia telah memukul kalian (lk)', 'ia telah memukul kalian (pr)',",
+              "start": 804.577,
+              "end": 807.995
+            },
+            {
+              "label": null,
+              "ar": "وَضَرَبَهُ، وَضَرَبَهَا، وَضَرَبَهُمَا، وَضَرَبَهُمْ، وَضَرَبَهُنَّ.",
+              "id": "'ia telah memukulnya (lk)', 'ia telah memukulnya (pr)', 'ia telah memukul mereka berdua', 'ia telah memukul mereka (lk)', 'ia telah memukul mereka (pr)'.",
+              "start": 808.935,
+              "end": 812.998
+            },
+            {
+              "label": null,
+              "ar": "وَالمُنْفَصِلُ اثْنَا عَشَرَ؛ وَهِيَ: إِيَّايَ، وَإِيَّانَا.",
+              "id": "Dan yang munfashil ada dua belas; yaitu: iyyaaya (hanya aku), dan iyyaanaa (hanya kami),",
+              "start": 813.74,
+              "end": 818.097
+            },
+            {
+              "label": null,
+              "ar": "وَإِيَّاكَ، وَإِيَّاكِ، وَإِيَّاكُمَا، وَإِيَّاكُمْ، وَإِيَّاكُنَّ.",
+              "id": "iyyaaka (hanya engkau lk), iyyaaki (hanya engkau pr), iyyaakumaa (hanya kalian berdua), iyyaakum (hanya kalian lk), iyyaakunna (hanya kalian pr),",
+              "start": 818.097,
+              "end": 822.025
+            },
+            {
+              "label": null,
+              "ar": "وَإِيَّاهُ، وَإِيَّاهَا، وَإِيَّاهُمَا، وَإِيَّاهُمْ، وَإِيَّاهُنَّ.",
+              "id": "iyyaahu (hanya dia lk), iyyaahaa (hanya dia pr), iyyaahumaa (hanya mereka berdua), iyyaahum (hanya mereka lk), iyyaahunna (hanya mereka pr).",
+              "start": 822.626,
+              "end": 826.809
+            },
+            {
+              "label": null,
+              "ar": "بَابُ المَصْدَرِ",
+              "id": "Bab Mashdar",
+              "start": 827.39,
+              "end": 828.371
+            },
+            {
+              "label": null,
+              "ar": "المَصْدَرُ: هُوَ الِاسْمُ المَنْصُوبُ الَّذِي يَجِيءُ ثَالِثاً فِي تَصْرِيفِ الفِعْلِ.",
+              "id": "Mashdar adalah: isim yang dinashabkan yang datang sebagai (bentuk) ketiga dalam tashrif (konjugasi) fi'il.",
+              "start": 828.831,
+              "end": 833.495
+            },
+            {
+              "label": null,
+              "ar": "نَحْوُ: ضَرَبَ يَضْرِبُ ضَرْباً.",
+              "id": "Seperti: dharaba, yadhribu, dharban (memukul, sedang memukul, pukulan).",
+              "start": 833.956,
+              "end": 835.776
+            },
+            {
+              "label": null,
+              "ar": "وَهُوَ قِسْمَانِ: لَفْظِيٌّ، وَمَعْنَوِيٌّ.",
+              "id": "Ia terbagi dua bagian: lafzhi, dan ma'nawi.",
+              "start": 836.216,
+              "end": 838.956
+            },
+            {
+              "label": null,
+              "ar": "فَإِنْ وَافَقَ لَفْظُهُ لَفْظَ فِعْلِهِ فَهُوَ لَفْظِيٌّ - نَحْوُ: قَتَلْتُهُ قَتْلاً ـ.",
+              "id": "Jika lafazhnya sesuai dengan lafazh fi'ilnya maka ia lafzhi - seperti: 'aku telah membunuhnya, sebenar-benar pembunuhan' -.",
+              "start": 839.658,
+              "end": 844.619
+            },
+            {
+              "label": null,
+              "ar": "وَإِنْ وَافَقَ مَعْنَى فِعْلِهِ دُونَ لَفْظِهِ فَهُوَ مَعْنَوِيٌّ - نَحْوُ قَوْلِكَ: جَلَسْتُ قُعُوداً، وَقُمْتُ وُقُوفاً ـ.",
+              "id": "Dan jika (mashdar itu) sesuai dengan makna fi'ilnya tanpa lafazhnya maka ia ma'nawi - seperti ucapanmu: 'aku telah duduk, sebagai keadaan duduk', dan 'aku telah berdiri, sebagai keadaan berdiri' -.",
+              "start": 845.158,
+              "end": 852.761
+            },
+            {
+              "label": null,
+              "ar": "بَابُ",
+              "id": "Bab",
+              "start": 853.441,
+              "end": 853.945
+            },
+            {
+              "label": null,
+              "ar": "ظَرْفِ الزَّمَانِ، وَظَرْفِ المَكَانِ",
+              "id": "Zharaf Zaman, dan Zharaf Makan",
+              "start": 854.449,
+              "end": 855.961
+            },
+            {
+              "label": null,
+              "ar": "ظَرْفُ الزَّمَانِ: هُوَ اسْمُ الزَّمَانِ المَنْصُوبُ بِتَقْدِيرِ «فِي».",
+              "id": "Zharaf zaman adalah: isim (penunjuk) waktu yang dinashabkan dengan perkiraan (makna) 'fii' (di dalam/pada).",
+              "start": 857.006,
+              "end": 860.153
+            },
+            {
+              "label": null,
+              "ar": "نَحْوُ: اليَوْمَ، وَاللَّيْلَةَ، وَغُدْوَةً، وَبُكْرَةً، وَسَحَراً، وَغَداً، وَعَتَمَةً، وَصَبَاحاً، وَمَسَاءً، وَأَبَداً، وَأَمَداً، وَحِيناً، وَمَا أَشْبَهَ ذَلِكَ.",
+              "id": "Seperti: al-yauma (hari ini), al-lailata (malam ini), ghudwatan (pagi-pagi), bukratan (pagi hari), saharan (waktu sahur), ghadan (besok), 'atamatan (waktu 'isya), shabaahan (pagi), masaa-an (sore/malam), abadan (selamanya), amadan (jangka waktu), hiinan (suatu waktu), dan yang serupa dengan itu.",
+              "start": 860.677,
+              "end": 870.411
+            },
+            {
+              "label": null,
+              "ar": "وَظَرْفُ المَكَانِ: هُوَ اسْمُ المَكَانِ المَنْصُوبُ بِتَقْدِيرِ «فِي».",
+              "id": "Dan zharaf makan adalah: isim (penunjuk) tempat yang dinashabkan dengan perkiraan (makna) 'fii' (di dalam/pada).",
+              "start": 870.411,
+              "end": 874.687
+            },
+            {
+              "label": null,
+              "ar": "نَحْوُ: أَمَامَ، وَخَلْفَ، وَقُدَّامَ، وَوَرَاءَ، وَفَوْقَ، وَتَحْتَ، وَعِنْدَ، وَمَعَ، وَإِزَاءَ، وَحِذَاءَ، وَتِلْقَاءَ، وَهُنَا، وَثَمَّ، وَمَا أَشْبَهَ ذَلِكَ.",
+              "id": "Seperti: amaama (di depan), khalfa (di belakang), quddaama (di depan), waraa-a (di belakang), fauqa (di atas), tahta (di bawah), 'inda (di sisi), ma'a (bersama), izaa-a (berhadapan dengan), hidzaa-a (di samping), tilqaa-a (di arah), hunaa (di sini), tsamma (di sana), dan yang serupa dengan itu.",
+              "start": 875.297,
+              "end": 885.68
+            },
+            {
+              "label": null,
+              "ar": "بَابُ الحَالِ",
+              "id": "Bab Hal (Keterangan Keadaan)",
+              "start": 886.336,
+              "end": 887.258
+            },
+            {
+              "label": null,
+              "ar": "الحَالُ: هُوَ الِاسْمُ المَنْصُوبُ المُفَسِّرُ لِمَا انْبَهَمَ مِنَ الهَيْئَاتِ.",
+              "id": "Hal adalah: isim yang dinashabkan yang menjelaskan keadaan yang masih samar.",
+              "start": 887.739,
+              "end": 892.125
+            },
+            {
+              "label": null,
+              "ar": "نَحْوُ قَوْلِكَ: جَاءَ زَيْدٌ رَاكِباً، وَرَكِبْتُ الفَرَسَ مُسْرَجاً، وَلَقِيتُ عَبْدَ اللَّهِ رَاكِباً.",
+              "id": "Seperti ucapanmu: 'Zaid datang dengan berkendara', 'aku menaiki kuda itu dalam keadaan berpelana', dan 'aku bertemu Abdullah dalam keadaan berkendara'.",
+              "start": 892.586,
+              "end": 899.658
+            },
+            {
+              "label": null,
+              "ar": "وَلَا يَكُونُ الحَالُ إلَّا نَكِرَةً، وَلَا يَكُونُ إلَّا بَعْدَ تَمَامِ الكَلَامِ، وَلَا يَكُونُ صَاحِبُهَا إلَّا مَعْرِفَةً.",
+              "id": "Dan hal tidaklah berupa selain nakirah, dan tidaklah ia berada kecuali setelah kalimat sempurna, dan pemiliknya (shahibul hal) tidaklah selain berupa ma'rifah.",
+              "start": 900.299,
+              "end": 908.322
+            },
+            {
+              "label": null,
+              "ar": "بَابُ التَّمْيِيزِ",
+              "id": "Bab Tamyiz (Penjelas)",
+              "start": 909.063,
+              "end": 910.183
+            },
+            {
+              "label": null,
+              "ar": "التَّمْيِيزُ: هُوَ الِاسْمُ المَنْصُوبُ المُفَسِّرُ لِمَا انْبَهَمَ مِنَ الذَّوَاتِ.",
+              "id": "Tamyiz adalah: isim yang dinashabkan yang menjelaskan dzat (benda/hakikat) yang masih samar.",
+              "start": 910.784,
+              "end": 915.326
+            },
+            {
+              "label": null,
+              "ar": "نَحْوُ قَوْلِكَ: تَصَبَّبَ زَيْدٌ عَرَقاً، وَتَفَقَّأَ بَكْرٌ شَحْماً، وَطَابَ مُحَمَّدٌ نَفْساً، وَاشْتَرَيْتُ عِشْرِينَ غُلَاماً، وَمَلَكْتُ تِسْعِينَ نَعْجَةً، وَزَيْدٌ أَكْرَمُ مِنْكَ أَباً، وَأَجْمَلُ مِنْكَ وَجْهاً.",
+              "id": "Seperti ucapanmu: 'Zaid bercucuran keringat', 'Bakr pecah (dipenuhi) lemak', 'Muhammad menjadi baik jiwanya', 'aku telah membeli dua puluh pelayan', 'aku memiliki sembilan puluh ekor domba', 'Zaid lebih mulia darimu, dari sisi ayahnya', dan 'lebih tampan darimu, dari sisi wajahnya'.",
+              "start": 915.726,
+              "end": 923.469
+            },
+            {
+              "label": null,
+              "ar": "وَلَا يَكُونُ إلَّا نَكِرَةً، وَلَا يَكُونُ إلَّا بَعْدَ تَمَامِ الكَلَامِ.",
+              "id": "Dan ia tidaklah berupa selain nakirah, dan tidaklah ia berada kecuali setelah kalimat sempurna.",
+              "start": 923.469,
+              "end": 927.953
+            },
+            {
+              "label": null,
+              "ar": "بَابُ الِاسْتِثْنَاءِ",
+              "id": "Bab Istitsna' (Pengecualian)",
+              "start": 927.953,
+              "end": 938.043
+            },
+            {
+              "label": null,
+              "ar": "وَحُرُوفُ الِاسْتِثْنَاءِ ثَمَانِيَةٌ؛ وَهِيَ: إلَّا، وَغَيْرُ، وَسِوَى، وَسُوَى، وَسَوَاءٌ، وَخَلَا، وَعَدَا، وَحَاشَا.",
+              "id": "Huruf-huruf istitsna' ada delapan; yaitu: illaa, ghairu, siwaa, suwaa, sawaa-un, khalaa, 'adaa, dan haasyaa.",
+              "start": 940.08,
+              "end": 945.475
+            },
+            {
+              "label": null,
+              "ar": "فَالمُسْتَثْنَى بِإِلِّا: يُنْصَبُ إِذَا كَانَ الكَلَامُ تَامّاً مُوجَباً.",
+              "id": "Adapun yang dikecualikan dengan 'illaa': dinashabkan apabila kalimat itu sempurna dan positif (mujab).",
+              "start": 947.571,
+              "end": 952.335
+            },
+            {
+              "label": null,
+              "ar": "نَحْوُ: قَامَ القَوْمُ إلَّا زَيْداً، وَخَرَجَ النَّاسُ إلَّا عَمْراً.",
+              "id": "Seperti: 'kaum itu telah berdiri kecuali Zaid', dan 'orang-orang itu telah keluar kecuali Amr'.",
+              "start": 952.894,
+              "end": 957.515
+            },
+            {
+              "label": null,
+              "ar": "وَإِنْ كَانَ الكَلَامُ مَنْفِيّاً تَامّاً: جَازَ فِيهِ البَدَلُ وَالنَّصْبُ عَلَى الِاسْتِثْنَاءِ.",
+              "id": "Dan jika kalimat itu negatif dan sempurna: boleh padanya badal dan nashab atas istitsna'.",
+              "start": 957.515,
+              "end": 963.163
+            },
+            {
+              "label": null,
+              "ar": "نَحْوُ قَوْلِكَ: مَا قَامَ القَوْمُ إلَّا زَيْدٌ وَإِلاَّ زَيْداً.",
+              "id": "Seperti ucapanmu: 'kaum itu tidak berdiri kecuali Zaid' (dengan rafa') dan 'kecuali Zaid' (dengan nashab).",
+              "start": 963.704,
+              "end": 967.787
+            },
+            {
+              "label": null,
+              "ar": "وَإِنْ كَانَ الكَلَامُ نَاقِصاً: كَانَ عَلَى حَسَبِ العَوَامِلِ.",
+              "id": "Dan jika kalimat itu tidak sempurna (naqish): maka statusnya bergantung pada 'amil-'amil (yang berlaku).",
+              "start": 968.727,
+              "end": 972.069
+            },
+            {
+              "label": null,
+              "ar": "نَحْوُ قَوْلِكَ: مَا قَامَ إلَّا زَيْدٌ، وَمَا ضَرَبْتُ إلَّا زَيْداً، وَمَا مَرَرْتُ إلَّا بِزَيْدٍ.",
+              "id": "Seperti ucapanmu: 'tidak ada yang berdiri kecuali Zaid', 'aku tidak memukul kecuali Zaid', dan 'aku tidak melewati kecuali Zaid'.",
+              "start": 972.982,
+              "end": 979.374
+            },
+            {
+              "label": null,
+              "ar": "وَالمُسْتَثْنَى بِغَيْرٍ، وَسِوًى، وَسُوًى، وَسَوَاءٍ: مَجْرُورٌ لَا غَيْرُ.",
+              "id": "Dan yang dikecualikan dengan ghairu, siwaa, suwaa, dan sawaa-in: dikhafadhkan, tidak selainnya.",
+              "start": 979.813,
+              "end": 984.797
+            },
+            {
+              "label": null,
+              "ar": "وَالمُسْتَثْنَى بِخَلَا، وَعَدَا، وَحَاشَا: يَجُوزُ نَصْبُهُ وَجَرُّهُ.",
+              "id": "Dan yang dikecualikan dengan khalaa, 'adaa, dan haasyaa: boleh dinashabkan dan dikhafadhkan.",
+              "start": 985.136,
+              "end": 989.559
+            },
+            {
+              "label": null,
+              "ar": "نَحْوُ قَوْلِكَ: قَامَ القَوْمُ خَلَا زَيْداً وَزَيْدٍ، وَعَدَا عَمْراً وَعَمْرٍو، وَحَاشَا بَكْراً وَبَكْرٍ.",
+              "id": "Seperti ucapanmu: 'kaum itu telah berdiri, kecuali Zaid' (dengan nashab dan khafadh), 'kecuali Amr' (dengan nashab dan khafadh), 'kecuali Bakr' (dengan nashab dan khafadh).",
+              "start": 990.538,
+              "end": 996.764
+            },
+            {
+              "label": null,
+              "ar": "بَابُ لَا",
+              "id": "Bab 'Laa'",
+              "start": 997.524,
+              "end": 998.124
+            },
+            {
+              "label": null,
+              "ar": "اعْلَمْ أَنَّ «لَا» تَنْصِبُ النَّكِرَاتِ بِغَيْرِ تَنْوِينٍ: إِذَا بَاشَرَتِ النَّكِرَةَ، وَلَمْ تَتَكَرَّرْ «لَا».",
+              "id": "Ketahuilah bahwa 'laa' menashabkan kata-kata nakirah tanpa tanwin: apabila ia langsung bertemu dengan nakirah itu, dan 'laa' itu tidak berulang.",
+              "start": 998.683,
+              "end": 1005.025
+            },
+            {
+              "label": null,
+              "ar": "نَحْوُ: لَا رَجُلَ فِي الدَّارِ.",
+              "id": "Seperti: 'tidak ada seorang laki-laki pun di rumah itu'.",
+              "start": 1005.665,
+              "end": 1007.366
+            },
+            {
+              "label": null,
+              "ar": "فَإِنْ لَمْ تُبَاشِرْهَا: وَجَبَ الرَّفْعُ وَوَجَبَ تَكْرَارُ «لَا».",
+              "id": "Maka jika ia tidak langsung bertemu dengannya: wajiblah rafa' dan wajiblah pengulangan 'laa'.",
+              "start": 1007.766,
+              "end": 1011.227
+            },
+            {
+              "label": null,
+              "ar": "نَحْوُ: لَا فِي الدَّارِ رَجُلٌ وَلَا امْرَأَةٌ.",
+              "id": "Seperti: 'tidak ada di rumah itu seorang laki-laki dan tidak pula seorang perempuan'.",
+              "start": 1011.727,
+              "end": 1014.149
+            },
+            {
+              "label": null,
+              "ar": "وَإِنْ تَكَرَّرَتْ «لَا»: جَازَ إِعْمَالُهَا وَإِلْغَاؤُهَا - فَإِنْ شِئْتَ قُلْتَ: لَا رَجُلَ فِي الدَّارِ وَلَا امْرَأَةَ، وَإِنْ شِئْتَ قُلْتَ: لَا رَجُلٌ فِي الدَّارِ وَلَا امْرَأَةٌ ـ.",
+              "id": "Dan jika 'laa' itu berulang: boleh memberlakukannya (sebagai penashab) dan membiarkannya (tanpa pengaruh) - jika engkau mau, engkau katakan: 'tidak ada seorang laki-laki pun di rumah dan tidak pula seorang perempuan pun' (dengan nashab), dan jika engkau mau, engkau katakan: 'tidak ada seorang laki-laki dan tidak pula seorang perempuan (yang ada) di rumah itu' (dengan rafa') -.",
+              "start": 1014.828,
+              "end": 1025.192
+            },
+            {
+              "label": null,
+              "ar": "بَابُ المُنَادَى",
+              "id": "Bab Munada (Yang Dipanggil)",
+              "start": 1025.731,
+              "end": 1026.612
+            },
+            {
+              "label": null,
+              "ar": "المُنَادَى خَمْسَةُ أَنْوَاعٍ: المُفْرَدُ العَلَمُ، وَالنَّكِرَةُ المَقْصُودَةُ، وَالنَّكِرَةُ غَيْرُ المَقْصُودَةِ، وَالمُضَافُ، وَالمُشَبَّهُ بِالمُضَافِ.",
+              "id": "Munada ada lima jenis: mufrad 'alam (nama tunggal), nakirah maqshudah (nakirah yang dituju/tertentu), nakirah ghairu maqshudah (nakirah yang tidak tertentu), mudhaf (yang disandarkan), dan yang serupa dengan mudhaf.",
+              "start": 1027.272,
+              "end": 1036.414
+            },
+            {
+              "label": null,
+              "ar": "فَأَمَّا المُفْرَدُ العَلَمُ، وَالنَّكِرَةُ المَقْصُودَةُ: فَيُبْنَيَانِ عَلَى الضَّمِّ مِنْ غَيْرِ تَنْوِينٍ.",
+              "id": "Adapun mufrad 'alam, dan nakirah maqshudah: keduanya dibangun di atas dhammah tanpa tanwin.",
+              "start": 1037.055,
+              "end": 1042.697
+            },
+            {
+              "label": null,
+              "ar": "نَحْوُ: يَا زَيْدُ، وَيَا رَجُلُ.",
+              "id": "Seperti: 'wahai Zaid', dan 'wahai laki-laki'.",
+              "start": 1043.057,
+              "end": 1044.817
+            },
+            {
+              "label": null,
+              "ar": "وَالثَّلَاثَةُ البَاقِيَةُ: مَنْصُوبَةٌ لَا غَيْرُ.",
+              "id": "Dan yang tiga sisanya: dinashabkan, tidak selainnya.",
+              "start": 1045.398,
+              "end": 1048.439
+            },
+            {
+              "label": null,
+              "ar": "نَحْوُ: يَا رَجُلاً، وَيَا عَبْدَ اللَّهِ، وَيَا طَالِعاً جَبَلاً.",
+              "id": "Seperti: 'wahai seorang laki-laki', 'wahai Abdullah', dan 'wahai (orang) yang mendaki gunung'.",
+              "start": 1048.839,
+              "end": 1052.759
+            },
+            {
+              "label": null,
+              "ar": "بَابُ",
+              "id": "Bab",
+              "start": 1053.644,
+              "end": 1054.029
+            },
+            {
+              "label": null,
+              "ar": "المَفْعُولِ مِنْ أَجْلِهِ",
+              "id": "Maf'ul min Ajlihi (Objek Sebab)",
+              "start": 1054.029,
+              "end": 1055.185
+            },
+            {
+              "label": null,
+              "ar": "وَهُوَ: الِاسْمُ المَنْصُوبُ الَّذِي يُذْكَرُ بَيَاناً لِسَبَبِ وُقُوعِ الفِعْلِ.",
+              "id": "Yaitu: isim yang dinashabkan yang disebutkan sebagai penjelas sebab terjadinya suatu perbuatan.",
+              "start": 1055.625,
+              "end": 1060.046
+            },
+            {
+              "label": null,
+              "ar": "نَحْوُ قَوْلِكَ: قَامَ زَيْدٌ إِجْلَالاً لِعَمْرٍو، وَقَصَدْتُكَ ابْتِغَاءَ مَعْرُوفِكَ.",
+              "id": "Seperti ucapanmu: 'Zaid telah berdiri sebagai penghormatan bagi Amr', dan 'aku telah menujumu demi mengharap kebaikanmu'.",
+              "start": 1060.526,
+              "end": 1065.868
+            },
+            {
+              "label": null,
+              "ar": "بَابُ",
+              "id": "Bab",
+              "start": 1066.448,
+              "end": 1066.895
+            },
+            {
+              "label": null,
+              "ar": "المَفْعُولِ مَعَهُ",
+              "id": "Maf'ul Ma'ahu (Objek Penyerta)",
+              "start": 1066.895,
+              "end": 1067.788
+            },
+            {
+              "label": null,
+              "ar": "وَهُوَ: الِاسْمُ المَنْصُوبُ الَّذِي يُذْكَرُ لِبَيَانِ مَنْ فُعِلَ مَعَهُ الفِعْلُ.",
+              "id": "Yaitu: isim yang dinashabkan yang disebutkan untuk menjelaskan siapa yang perbuatan itu dilakukan bersamanya.",
+              "start": 1068.229,
+              "end": 1072.55
+            },
+            {
+              "label": null,
+              "ar": "نَحْوُ قَوْلِكَ: جَاءَ الأَمِيرُ وَالجَيْشَ، وَاسْتَوَى المَاءُ وَالخَشَبَةَ.",
+              "id": "Seperti ucapanmu: 'sang panglima telah datang bersama pasukan', dan 'air itu telah rata (sejajar) dengan kayu itu'.",
+              "start": 1073.029,
+              "end": 1077.231
+            },
+            {
+              "label": null,
+              "ar": "وَأَمَّا خَبَرُ «كَانَ» وَأَخَوَاتِهَا، وَاسْمُ «إِنَّ» وَأَخَوَاتِهَا: فَقَدْ تَقَدَّمَ ذِكْرُهُمَا فِي «المَرْفُوعَاتِ».",
+              "id": "Adapun khabar 'kaana' beserta saudara-saudaranya, dan isim 'inna' beserta saudara-saudaranya: sungguh telah disebutkan sebelumnya pada bab isim-isim yang dirafa'kan.",
+              "start": 1077.791,
+              "end": 1084.354
+            },
+            {
+              "label": null,
+              "ar": "وَكَذَلِكَ التَّوَابِعُ: فَقَدْ تَقَدَّمَتْ هُنَاكَ.",
+              "id": "Demikian pula kata-kata yang mengikutinya (tawabi'): sungguh telah disebutkan sebelumnya di sana.",
+              "start": 1084.894,
+              "end": 1088.035
+            },
+            {
+              "label": null,
+              "ar": "بَابُ",
+              "id": "Bab",
+              "start": 1088.494,
+              "end": 1089.074
+            },
+            {
+              "label": null,
+              "ar": "مَخْفُوضَاتِ الأَسْمَاءِ",
+              "id": "Isim-Isim yang Dikhafadhkan",
+              "start": 1089.074,
+              "end": 1090.234
+            },
+            {
+              "label": null,
+              "ar": "المَخْفُوضَاتُ ثَلَاثَةُ أَقْسَامٍ: مَخْفُوضٌ بِالحَرْفِ، وَمَخْفُوضٌ بِالإِضَافَةِ، وَتَابِعٌ لِلْمَخْفُوضِ.",
+              "id": "Yang dikhafadhkan terbagi tiga bagian: yang dikhafadhkan dengan huruf, yang dikhafadhkan dengan idhafah (penyandaran), dan yang mengikuti kata yang dikhafadhkan.",
+              "start": 1090.674,
+              "end": 1096.516
+            },
+            {
+              "label": null,
+              "ar": "فَأَمَّا المَخْفُوضُ بِالحَرْفِ: فَهُوَ مَا يُخْفَضُ بِمِنْ، وَإِلَى، وَعَنْ، وَعَلَى، وَفِي، وَرُبَّ، وَالبَاءِ، وَالكَافِ، وَاللَّامِ، وَبِحُرُوفِ القَسَمِ - وَهِيَ: الوَاوُ، وَالبَاءُ، وَالتَّاءُ ـ، وَبِوَاوِ رُبَّ، وَبِمُذْ، وَمُنْذُ.",
+              "id": "Adapun yang dikhafadhkan dengan huruf: yaitu apa yang dikhafadhkan dengan min, ilaa, 'an, 'alaa, fii, rubba, ba', kaf, lam, dan dengan huruf-huruf qasam - yaitu: wawu, ba', ta' -, dan dengan wawu rubba, dan dengan mudz, serta mundzu.",
+              "start": 1096.516,
+              "end": 1111.68
+            },
+            {
+              "label": null,
+              "ar": "وَأَمَّا مَا يُخْفَضُ بِالإِضَافَةِ؛ فَنَحْوُ قَوْلِكَ: غُلَامُ زَيْدٍ، وَهُوَ عَلَى قِسْمَيْنِ: مَا يُقَدَّرُ بِاللَّامِ، وَمَا يُقَدَّرُ بِمِنْ.",
+              "id": "Adapun yang dikhafadhkan dengan idhafah; seperti ucapanmu: 'pelayan Zaid', dan ia terbagi dua bagian: yang diperkirakan dengan lam, dan yang diperkirakan dengan min.",
+              "start": 1112.44,
+              "end": 1120.803
+            },
+            {
+              "label": null,
+              "ar": "فَالَّذِي يُقَدَّرُ بِاللَّامِ؛ نَحْوُ قَوْلِكَ: غُلَامُ زَيْدٍ.",
+              "id": "Adapun yang diperkirakan dengan lam; seperti ucapanmu: 'pelayan Zaid' (maksudnya: pelayan milik Zaid).",
+              "start": 1121.303,
+              "end": 1124.844
+            },
+            {
+              "label": null,
+              "ar": "وَالَّذِي يُقَدَّرُ بِمِنْ؛ نَحْوُ قَوْلِكَ: ثَوْبُ خَزٍّ، وَبَابُ سَاجٍ، وَخَاتَمُ حَدِيدٍ.",
+              "id": "Adapun yang diperkirakan dengan min; seperti ucapanmu: 'kain sutra', 'pintu dari kayu jati', dan 'cincin besi'.",
+              "start": 1125.344,
+              "end": 1131.206
+            },
+            {
+              "label": null,
+              "ar": "وَاللَّهُ أَعْلَمُ.",
+              "id": "Wallahu a'lam (Allah Yang Maha Mengetahui).",
+              "start": 1131.826,
+              "end": 1132.966
+            },
+            {
+              "label": null,
+              "ar": "تَمَّ بِحَمْدِ اللهِ",
+              "id": "Selesai, dengan memuji Allah.",
+              "start": 1133.706,
+              "end": 1134.967
+            }
+          ]
         },
         {
           "no": "04",
